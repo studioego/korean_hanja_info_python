@@ -1,521 +1,521 @@
 # 2018.04.29. 좀더 조사해야할 한자 목록
 # 대법원(大法院) 인명용한자(人名用漢字)와 libhangul의 한자사전 목록에 없으나, 수정된 LibreOffice 한자 목록에 존재하는 한자 519자
-Hangul: 간, Hanja: 啃 | http://hanja.naver.com/hanja?q=啃&cp_code=0&sound_id=0
-Hangul: 감, Hanja: 芡 | http://hanja.naver.com/hanja?q=芡&cp_code=0&sound_id=0
-Hangul: 갑, Hanja: 匼 | http://hanja.naver.com/hanja?q=匼&cp_code=0&sound_id=0
-Hangul: 개, Hanja: 豈 | http://hanja.naver.com/hanja?q=豈&cp_code=0&sound_id=0
-Hangul: 갱, Hanja: 更 | http://hanja.naver.com/hanja?q=更&cp_code=0&sound_id=0
-Hangul: 거, Hanja: 車 | http://hanja.naver.com/hanja?q=車&cp_code=0&sound_id=0
-Hangul: 결, Hanja: 叏 | http://hanja.naver.com/hanja?q=叏&cp_code=0&sound_id=0
-Hangul: 겹, Hanja: 韐 | http://hanja.naver.com/hanja?q=韐&cp_code=0&sound_id=0
-Hangul: 경, Hanja: 琁 | http://hanja.naver.com/hanja?q=琁&cp_code=0&sound_id=0
-Hangul: 고, Hanja: 賈 | http://hanja.naver.com/hanja?q=賈&cp_code=0&sound_id=0
-Hangul: 고, Hanja: 熇 | http://hanja.naver.com/hanja?q=熇&cp_code=0&sound_id=0
-Hangul: 골, Hanja: 滑 | http://hanja.naver.com/hanja?q=滑&cp_code=0&sound_id=0
-Hangul: 곶, Hanja: 串 | http://hanja.naver.com/hanja?q=串&cp_code=0&sound_id=0
-Hangul: 관, Hanja: 館 | http://hanja.naver.com/hanja?q=館&cp_code=0&sound_id=0
-Hangul: 국, Hanja: 麹 | http://hanja.naver.com/hanja?q=麹&cp_code=0&sound_id=0
-Hangul: 권, Hanja: 顴 | http://hanja.naver.com/hanja?q=顴&cp_code=0&sound_id=0
-Hangul: 귀, Hanja: 句 | http://hanja.naver.com/hanja?q=句&cp_code=0&sound_id=0
-Hangul: 귀, Hanja: 龜 | http://hanja.naver.com/hanja?q=龜&cp_code=0&sound_id=0
-Hangul: 귀, Hanja: 亀 | http://hanja.naver.com/hanja?q=亀&cp_code=0&sound_id=0
-Hangul: 규, Hanja: 哇 | http://hanja.naver.com/hanja?q=哇&cp_code=0&sound_id=0
-Hangul: 규, Hanja: 嘄 | http://hanja.naver.com/hanja?q=嘄&cp_code=0&sound_id=0
-Hangul: 균, Hanja: 龜 | http://hanja.naver.com/hanja?q=龜&cp_code=0&sound_id=0
-Hangul: 균, Hanja: 亀 | http://hanja.naver.com/hanja?q=亀&cp_code=0&sound_id=0
-Hangul: 근, Hanja: 肵 | http://hanja.naver.com/hanja?q=肵&cp_code=0&sound_id=0
-Hangul: 글, Hanja: 契 | http://hanja.naver.com/hanja?q=契&cp_code=0&sound_id=0
-Hangul: 금, Hanja: 金 | http://hanja.naver.com/hanja?q=金&cp_code=0&sound_id=0
-Hangul: 긍, Hanja: 恆 | http://hanja.naver.com/hanja?q=恆&cp_code=0&sound_id=0
-Hangul: 나, Hanja: 喇 | http://hanja.naver.com/hanja?q=喇&cp_code=0&sound_id=0
-Hangul: 나, Hanja: 奈 | http://hanja.naver.com/hanja?q=奈&cp_code=0&sound_id=0
-Hangul: 나, Hanja: 懶 | http://hanja.naver.com/hanja?q=懶&cp_code=0&sound_id=0
-Hangul: 나, Hanja: 癩 | http://hanja.naver.com/hanja?q=癩&cp_code=0&sound_id=0
-Hangul: 나, Hanja: 羅 | http://hanja.naver.com/hanja?q=羅&cp_code=0&sound_id=0
-Hangul: 나, Hanja: 蘿 | http://hanja.naver.com/hanja?q=蘿&cp_code=0&sound_id=0
-Hangul: 나, Hanja: 螺 | http://hanja.naver.com/hanja?q=螺&cp_code=0&sound_id=0
-Hangul: 나, Hanja: 裸 | http://hanja.naver.com/hanja?q=裸&cp_code=0&sound_id=0
-Hangul: 나, Hanja: 邏 | http://hanja.naver.com/hanja?q=邏&cp_code=0&sound_id=0
-Hangul: 나, Hanja: 驘 | http://hanja.naver.com/hanja?q=驘&cp_code=0&sound_id=0
-Hangul: 나, Hanja: 曪 | http://hanja.naver.com/hanja?q=曪&cp_code=0&sound_id=0
-Hangul: 나, Hanja: 亽 | http://hanja.naver.com/hanja?q=亽&cp_code=0&sound_id=0
-Hangul: 낙, Hanja: 樂 | http://hanja.naver.com/hanja?q=樂&cp_code=0&sound_id=0
-Hangul: 낙, Hanja: 洛 | http://hanja.naver.com/hanja?q=洛&cp_code=0&sound_id=0
-Hangul: 낙, Hanja: 烙 | http://hanja.naver.com/hanja?q=烙&cp_code=0&sound_id=0
-Hangul: 낙, Hanja: 珞 | http://hanja.naver.com/hanja?q=珞&cp_code=0&sound_id=0
-Hangul: 낙, Hanja: 落 | http://hanja.naver.com/hanja?q=落&cp_code=0&sound_id=0
-Hangul: 낙, Hanja: 酪 | http://hanja.naver.com/hanja?q=酪&cp_code=0&sound_id=0
-Hangul: 낙, Hanja: 駱 | http://hanja.naver.com/hanja?q=駱&cp_code=0&sound_id=0
-Hangul: 낙, Hanja: 嗠 | http://hanja.naver.com/hanja?q=嗠&cp_code=0&sound_id=0
-Hangul: 난, Hanja: 亂 | http://hanja.naver.com/hanja?q=亂&cp_code=0&sound_id=0
-Hangul: 난, Hanja: 卵 | http://hanja.naver.com/hanja?q=卵&cp_code=0&sound_id=0
-Hangul: 난, Hanja: 欄 | http://hanja.naver.com/hanja?q=欄&cp_code=0&sound_id=0
-Hangul: 난, Hanja: 爛 | http://hanja.naver.com/hanja?q=爛&cp_code=0&sound_id=0
-Hangul: 난, Hanja: 蘭 | http://hanja.naver.com/hanja?q=蘭&cp_code=0&sound_id=0
-Hangul: 난, Hanja: 鸞 | http://hanja.naver.com/hanja?q=鸞&cp_code=0&sound_id=0
-Hangul: 남, Hanja: 嵐 | http://hanja.naver.com/hanja?q=嵐&cp_code=0&sound_id=0
-Hangul: 남, Hanja: 濫 | http://hanja.naver.com/hanja?q=濫&cp_code=0&sound_id=0
-Hangul: 남, Hanja: 藍 | http://hanja.naver.com/hanja?q=藍&cp_code=0&sound_id=0
-Hangul: 남, Hanja: 襤 | http://hanja.naver.com/hanja?q=襤&cp_code=0&sound_id=0
-Hangul: 남, Hanja: 惏 | http://hanja.naver.com/hanja?q=惏&cp_code=0&sound_id=0
-Hangul: 남, Hanja: 弇 | http://hanja.naver.com/hanja?q=弇&cp_code=0&sound_id=0
-Hangul: 납, Hanja: 拉 | http://hanja.naver.com/hanja?q=拉&cp_code=0&sound_id=0
-Hangul: 납, Hanja: 臘 | http://hanja.naver.com/hanja?q=臘&cp_code=0&sound_id=0
-Hangul: 납, Hanja: 蠟 | http://hanja.naver.com/hanja?q=蠟&cp_code=0&sound_id=0
-Hangul: 낭, Hanja: 廊 | http://hanja.naver.com/hanja?q=廊&cp_code=0&sound_id=0
-Hangul: 낭, Hanja: 朗 | http://hanja.naver.com/hanja?q=朗&cp_code=0&sound_id=0
-Hangul: 낭, Hanja: 浪 | http://hanja.naver.com/hanja?q=浪&cp_code=0&sound_id=0
-Hangul: 낭, Hanja: 狼 | http://hanja.naver.com/hanja?q=狼&cp_code=0&sound_id=0
-Hangul: 낭, Hanja: 郎 | http://hanja.naver.com/hanja?q=郎&cp_code=0&sound_id=0
-Hangul: 내, Hanja: 來 | http://hanja.naver.com/hanja?q=來&cp_code=0&sound_id=0
-Hangul: 내, Hanja: 黧 | http://hanja.naver.com/hanja?q=黧&cp_code=0&sound_id=0
-Hangul: 냉, Hanja: 冷 | http://hanja.naver.com/hanja?q=冷&cp_code=0&sound_id=0
-Hangul: 노, Hanja: 勞 | http://hanja.naver.com/hanja?q=勞&cp_code=0&sound_id=0
-Hangul: 노, Hanja: 擄 | http://hanja.naver.com/hanja?q=擄&cp_code=0&sound_id=0
-Hangul: 노, Hanja: 櫓 | http://hanja.naver.com/hanja?q=櫓&cp_code=0&sound_id=0
-Hangul: 노, Hanja: 爐 | http://hanja.naver.com/hanja?q=爐&cp_code=0&sound_id=0
-Hangul: 노, Hanja: 盧 | http://hanja.naver.com/hanja?q=盧&cp_code=0&sound_id=0
-Hangul: 노, Hanja: 老 | http://hanja.naver.com/hanja?q=老&cp_code=0&sound_id=0
-Hangul: 노, Hanja: 蘆 | http://hanja.naver.com/hanja?q=蘆&cp_code=0&sound_id=0
-Hangul: 노, Hanja: 虜 | http://hanja.naver.com/hanja?q=虜&cp_code=0&sound_id=0
-Hangul: 노, Hanja: 路 | http://hanja.naver.com/hanja?q=路&cp_code=0&sound_id=0
-Hangul: 노, Hanja: 露 | http://hanja.naver.com/hanja?q=露&cp_code=0&sound_id=0
-Hangul: 노, Hanja: 魯 | http://hanja.naver.com/hanja?q=魯&cp_code=0&sound_id=0
-Hangul: 노, Hanja: 鷺 | http://hanja.naver.com/hanja?q=鷺&cp_code=0&sound_id=0
-Hangul: 노, Hanja: 嘮 | http://hanja.naver.com/hanja?q=嘮&cp_code=0&sound_id=0
-Hangul: 노, Hanja: 髗 | http://hanja.naver.com/hanja?q=髗&cp_code=0&sound_id=0
-Hangul: 녹, Hanja: 碌 | http://hanja.naver.com/hanja?q=碌&cp_code=0&sound_id=0
-Hangul: 녹, Hanja: 祿 | http://hanja.naver.com/hanja?q=祿&cp_code=0&sound_id=0
-Hangul: 녹, Hanja: 綠 | http://hanja.naver.com/hanja?q=綠&cp_code=0&sound_id=0
-Hangul: 녹, Hanja: 菉 | http://hanja.naver.com/hanja?q=菉&cp_code=0&sound_id=0
-Hangul: 녹, Hanja: 錄 | http://hanja.naver.com/hanja?q=錄&cp_code=0&sound_id=0
-Hangul: 녹, Hanja: 鹿 | http://hanja.naver.com/hanja?q=鹿&cp_code=0&sound_id=0
-Hangul: 논, Hanja: 論 | http://hanja.naver.com/hanja?q=論&cp_code=0&sound_id=0
-Hangul: 농, Hanja: 壟 | http://hanja.naver.com/hanja?q=壟&cp_code=0&sound_id=0
-Hangul: 농, Hanja: 弄 | http://hanja.naver.com/hanja?q=弄&cp_code=0&sound_id=0
-Hangul: 농, Hanja: 籠 | http://hanja.naver.com/hanja?q=籠&cp_code=0&sound_id=0
-Hangul: 농, Hanja: 聾 | http://hanja.naver.com/hanja?q=聾&cp_code=0&sound_id=0
-Hangul: 농, Hanja: 龍 | http://hanja.naver.com/hanja?q=龍&cp_code=0&sound_id=0
-Hangul: 농, Hanja: 竜 | http://hanja.naver.com/hanja?q=竜&cp_code=0&sound_id=0
-Hangul: 농, Hanja: 龒 | http://hanja.naver.com/hanja?q=龒&cp_code=0&sound_id=0
-Hangul: 뇌, Hanja: 牢 | http://hanja.naver.com/hanja?q=牢&cp_code=0&sound_id=0
-Hangul: 뇌, Hanja: 磊 | http://hanja.naver.com/hanja?q=磊&cp_code=0&sound_id=0
-Hangul: 뇌, Hanja: 賂 | http://hanja.naver.com/hanja?q=賂&cp_code=0&sound_id=0
-Hangul: 뇌, Hanja: 雷 | http://hanja.naver.com/hanja?q=雷&cp_code=0&sound_id=0
-Hangul: 뇌, Hanja: 攂 | http://hanja.naver.com/hanja?q=攂&cp_code=0&sound_id=0
-Hangul: 누, Hanja: 壘 | http://hanja.naver.com/hanja?q=壘&cp_code=0&sound_id=0
-Hangul: 누, Hanja: 屢 | http://hanja.naver.com/hanja?q=屢&cp_code=0&sound_id=0
-Hangul: 누, Hanja: 樓 | http://hanja.naver.com/hanja?q=樓&cp_code=0&sound_id=0
-Hangul: 누, Hanja: 淚 | http://hanja.naver.com/hanja?q=淚&cp_code=0&sound_id=0
-Hangul: 누, Hanja: 漏 | http://hanja.naver.com/hanja?q=漏&cp_code=0&sound_id=0
-Hangul: 누, Hanja: 累 | http://hanja.naver.com/hanja?q=累&cp_code=0&sound_id=0
-Hangul: 누, Hanja: 縷 | http://hanja.naver.com/hanja?q=縷&cp_code=0&sound_id=0
-Hangul: 누, Hanja: 陋 | http://hanja.naver.com/hanja?q=陋&cp_code=0&sound_id=0
-Hangul: 누, Hanja: 厽 | http://hanja.naver.com/hanja?q=厽&cp_code=0&sound_id=0
-Hangul: 늣, Hanja: 莻 | http://hanja.naver.com/hanja?q=莻&cp_code=0&sound_id=0
-Hangul: 늑, Hanja: 勒 | http://hanja.naver.com/hanja?q=勒&cp_code=0&sound_id=0
-Hangul: 늑, Hanja: 肋 | http://hanja.naver.com/hanja?q=肋&cp_code=0&sound_id=0
-Hangul: 늠, Hanja: 凜 | http://hanja.naver.com/hanja?q=凜&cp_code=0&sound_id=0
-Hangul: 능, Hanja: 凌 | http://hanja.naver.com/hanja?q=凌&cp_code=0&sound_id=0
-Hangul: 능, Hanja: 稜 | http://hanja.naver.com/hanja?q=稜&cp_code=0&sound_id=0
-Hangul: 능, Hanja: 綾 | http://hanja.naver.com/hanja?q=綾&cp_code=0&sound_id=0
-Hangul: 능, Hanja: 菱 | http://hanja.naver.com/hanja?q=菱&cp_code=0&sound_id=0
-Hangul: 능, Hanja: 陵 | http://hanja.naver.com/hanja?q=陵&cp_code=0&sound_id=0
-Hangul: 단, Hanja: 剸 | http://hanja.naver.com/hanja?q=剸&cp_code=0&sound_id=0
-Hangul: 단, Hanja: 笪 | http://hanja.naver.com/hanja?q=笪&cp_code=0&sound_id=0
-Hangul: 단, Hanja: 揣 | http://hanja.naver.com/hanja?q=揣&cp_code=0&sound_id=0
-Hangul: 대, Hanja: 枱 | http://hanja.naver.com/hanja?q=枱&cp_code=0&sound_id=0
-Hangul: 대, Hanja: 隸 | http://hanja.naver.com/hanja?q=隸&cp_code=0&sound_id=0
-Hangul: 대, Hanja: 隷 | http://hanja.naver.com/hanja?q=隷&cp_code=0&sound_id=0
-Hangul: 도, Hanja: 纛 | http://hanja.naver.com/hanja?q=纛&cp_code=0&sound_id=0
-Hangul: 도, Hanja: 都 | http://hanja.naver.com/hanja?q=都&cp_code=0&sound_id=0
-Hangul: 도, Hanja: 璹 | http://hanja.naver.com/hanja?q=璹&cp_code=0&sound_id=0
-Hangul: 동, Hanja: 虫 | http://hanja.naver.com/hanja?q=虫&cp_code=0&sound_id=0
-Hangul: 두, Hanja: 讀 | http://hanja.naver.com/hanja?q=讀&cp_code=0&sound_id=0
-Hangul: 둑, Hanja: 纛 | http://hanja.naver.com/hanja?q=纛&cp_code=0&sound_id=0
-Hangul: 라, Hanja: 拏 | http://hanja.naver.com/hanja?q=拏&cp_code=0&sound_id=0
-Hangul: 락, Hanja: 樂 | http://hanja.naver.com/hanja?q=樂&cp_code=0&sound_id=0
-Hangul: 락, Hanja: 諾 | http://hanja.naver.com/hanja?q=諾&cp_code=0&sound_id=0
-Hangul: 락, Hanja: 攊 | http://hanja.naver.com/hanja?q=攊&cp_code=0&sound_id=0
-Hangul: 란, Hanja: 丹 | http://hanja.naver.com/hanja?q=丹&cp_code=0&sound_id=0
-Hangul: 람, Hanja: 厱 | http://hanja.naver.com/hanja?q=厱&cp_code=0&sound_id=0
-Hangul: 래, Hanja: 黧 | http://hanja.naver.com/hanja?q=黧&cp_code=0&sound_id=0
-Hangul: 려, Hanja: 戻 | http://hanja.naver.com/hanja?q=戻&cp_code=0&sound_id=0
-Hangul: 렬, Hanja: 戻 | http://hanja.naver.com/hanja?q=戻&cp_code=0&sound_id=0
-Hangul: 령, Hanja: 寧 | http://hanja.naver.com/hanja?q=寧&cp_code=0&sound_id=0
-Hangul: 례, Hanja: 礼 | http://hanja.naver.com/hanja?q=礼&cp_code=0&sound_id=0
-Hangul: 로, Hanja: 怒 | http://hanja.naver.com/hanja?q=怒&cp_code=0&sound_id=0
-Hangul: 롱, Hanja: 龍 | http://hanja.naver.com/hanja?q=龍&cp_code=0&sound_id=0
-Hangul: 롱, Hanja: 竜 | http://hanja.naver.com/hanja?q=竜&cp_code=0&sound_id=0
-Hangul: 롱, Hanja: 龒 | http://hanja.naver.com/hanja?q=龒&cp_code=0&sound_id=0
-Hangul: 률, Hanja: 率 | http://hanja.naver.com/hanja?q=率&cp_code=0&sound_id=0
-Hangul: 리, Hanja: 異 | http://hanja.naver.com/hanja?q=異&cp_code=0&sound_id=0
-Hangul: 리, Hanja: 麗 | http://hanja.naver.com/hanja?q=麗&cp_code=0&sound_id=0
-Hangul: 리, Hanja: 黧 | http://hanja.naver.com/hanja?q=黧&cp_code=0&sound_id=0
-Hangul: 리, Hanja: 灑 | http://hanja.naver.com/hanja?q=灑&cp_code=0&sound_id=0
-Hangul: 림, Hanja: 滲 | http://hanja.naver.com/hanja?q=滲&cp_code=0&sound_id=0
-Hangul: 림, Hanja: 渗 | http://hanja.naver.com/hanja?q=渗&cp_code=0&sound_id=0
-Hangul: 망, Hanja: 龍 | http://hanja.naver.com/hanja?q=龍&cp_code=0&sound_id=0
-Hangul: 망, Hanja: 竜 | http://hanja.naver.com/hanja?q=竜&cp_code=0&sound_id=0
-Hangul: 망, Hanja: 龒 | http://hanja.naver.com/hanja?q=龒&cp_code=0&sound_id=0
-Hangul: 면, Hanja: 湣 | http://hanja.naver.com/hanja?q=湣&cp_code=0&sound_id=0
-Hangul: 모, Hanja: 藐 | http://hanja.naver.com/hanja?q=藐&cp_code=0&sound_id=0
-Hangul: 묘, Hanja: 吵 | http://hanja.naver.com/hanja?q=吵&cp_code=0&sound_id=0
-Hangul: 미, Hanja: 辟 | http://hanja.naver.com/hanja?q=辟&cp_code=0&sound_id=0
-Hangul: 박, Hanja: 曝 | http://hanja.naver.com/hanja?q=曝&cp_code=0&sound_id=0
-Hangul: 반, Hanja: 飯 | http://hanja.naver.com/hanja?q=飯&cp_code=0&sound_id=0
-Hangul: 반, Hanja: 乑 | http://hanja.naver.com/hanja?q=乑&cp_code=0&sound_id=0
-Hangul: 밧, Hanja: 夞 | http://hanja.naver.com/hanja?q=夞&cp_code=0&sound_id=0
-Hangul: 배, Hanja: 北 | http://hanja.naver.com/hanja?q=北&cp_code=0&sound_id=0
-Hangul: 번, Hanja: 磻 | http://hanja.naver.com/hanja?q=磻&cp_code=0&sound_id=0
-Hangul: 변, Hanja: 便 | http://hanja.naver.com/hanja?q=便&cp_code=0&sound_id=0
-Hangul: 병, Hanja: 拼 | http://hanja.naver.com/hanja?q=拼&cp_code=0&sound_id=0
-Hangul: 보, Hanja: 呆 | http://hanja.naver.com/hanja?q=呆&cp_code=0&sound_id=0
-Hangul: 복, Hanja: 樸 | http://hanja.naver.com/hanja?q=樸&cp_code=0&sound_id=0
-Hangul: 복, Hanja: 福 | http://hanja.naver.com/hanja?q=福&cp_code=0&sound_id=0
-Hangul: 복, Hanja: 踣 | http://hanja.naver.com/hanja?q=踣&cp_code=0&sound_id=0
-Hangul: 복, Hanja: 復 | http://hanja.naver.com/hanja?q=復&cp_code=0&sound_id=0
-Hangul: 봉, Hanja: 鬅 | http://hanja.naver.com/hanja?q=鬅&cp_code=0&sound_id=0
-Hangul: 부, Hanja: 復 | http://hanja.naver.com/hanja?q=復&cp_code=0&sound_id=0
-Hangul: 부, Hanja: 踣 | http://hanja.naver.com/hanja?q=踣&cp_code=0&sound_id=0
-Hangul: 부, Hanja: 福 | http://hanja.naver.com/hanja?q=福&cp_code=0&sound_id=0
-Hangul: 비, Hanja: 泌 | http://hanja.naver.com/hanja?q=泌&cp_code=0&sound_id=0
-Hangul: 비, Hanja: 辟 | http://hanja.naver.com/hanja?q=辟&cp_code=0&sound_id=0
-Hangul: 빙, Hanja: 葑 | http://hanja.naver.com/hanja?q=葑&cp_code=0&sound_id=0
-Hangul: 뼘, Hanja: 乀 | http://hanja.naver.com/hanja?q=乀&cp_code=0&sound_id=0
-Hangul: 사, Hanja: 飼 | http://hanja.naver.com/hanja?q=飼&cp_code=0&sound_id=0
-Hangul: 사, Hanja: 枱 | http://hanja.naver.com/hanja?q=枱&cp_code=0&sound_id=0
-Hangul: 삭, Hanja: 數 | http://hanja.naver.com/hanja?q=數&cp_code=0&sound_id=0
-Hangul: 삭, Hanja: 索 | http://hanja.naver.com/hanja?q=索&cp_code=0&sound_id=0
-Hangul: 삼, Hanja: 參 | http://hanja.naver.com/hanja?q=參&cp_code=0&sound_id=0
-Hangul: 삼, Hanja: 叁 | http://hanja.naver.com/hanja?q=叁&cp_code=0&sound_id=0
-Hangul: 삼, Hanja: 参 | http://hanja.naver.com/hanja?q=参&cp_code=0&sound_id=0
-Hangul: 삼, Hanja: 鰺 | http://hanja.naver.com/hanja?q=鰺&cp_code=0&sound_id=0
-Hangul: 삼, Hanja: 鐥 | http://hanja.naver.com/hanja?q=鐥&cp_code=0&sound_id=0
-Hangul: 상, Hanja: 儴 | http://hanja.naver.com/hanja?q=儴&cp_code=0&sound_id=0
-Hangul: 상, Hanja: 祥 | http://hanja.naver.com/hanja?q=祥&cp_code=0&sound_id=0
-Hangul: 색, Hanja: 塞 | http://hanja.naver.com/hanja?q=塞&cp_code=0&sound_id=0
-Hangul: 생, Hanja: 省 | http://hanja.naver.com/hanja?q=省&cp_code=0&sound_id=0
-Hangul: 선, Hanja: 羡 | http://hanja.naver.com/hanja?q=羡&cp_code=0&sound_id=0
-Hangul: 선, Hanja: 亙 | http://hanja.naver.com/hanja?q=亙&cp_code=0&sound_id=0
-Hangul: 섭, Hanja: 葉 | http://hanja.naver.com/hanja?q=葉&cp_code=0&sound_id=0
-Hangul: 성, Hanja: 垩 | http://hanja.naver.com/hanja?q=垩&cp_code=0&sound_id=0
-Hangul: 세, Hanja: 說 | http://hanja.naver.com/hanja?q=說&cp_code=0&sound_id=0
-Hangul: 세, Hanja: 蜕 | http://hanja.naver.com/hanja?q=蜕&cp_code=0&sound_id=0
-Hangul: 소, Hanja: 厼 | http://hanja.naver.com/hanja?q=厼&cp_code=0&sound_id=0
-Hangul: 소, Hanja: 潚 | http://hanja.naver.com/hanja?q=潚&cp_code=0&sound_id=0
-Hangul: 솔, Hanja: 卹 | http://hanja.naver.com/hanja?q=卹&cp_code=0&sound_id=0
-Hangul: 송, Hanja: 憃 | http://hanja.naver.com/hanja?q=憃&cp_code=0&sound_id=0
-Hangul: 쇄, Hanja: 殺 | http://hanja.naver.com/hanja?q=殺&cp_code=0&sound_id=0
-Hangul: 수, Hanja: 璹 | http://hanja.naver.com/hanja?q=璹&cp_code=0&sound_id=0
-Hangul: 수, Hanja: 嘼 | http://hanja.naver.com/hanja?q=嘼&cp_code=0&sound_id=0
-Hangul: 수, Hanja: 陏 | http://hanja.naver.com/hanja?q=陏&cp_code=0&sound_id=0
-Hangul: 술, Hanja: 术 | http://hanja.naver.com/hanja?q=术&cp_code=0&sound_id=0
-Hangul: 시, Hanja: 灑 | http://hanja.naver.com/hanja?q=灑&cp_code=0&sound_id=0
-Hangul: 신, Hanja: 辰 | http://hanja.naver.com/hanja?q=辰&cp_code=0&sound_id=0
-Hangul: 신, Hanja: 神 | http://hanja.naver.com/hanja?q=神&cp_code=0&sound_id=0
-Hangul: 신, Hanja: 詵 | http://hanja.naver.com/hanja?q=詵&cp_code=0&sound_id=0
-Hangul: 심, Hanja: 沈 | http://hanja.naver.com/hanja?q=沈&cp_code=0&sound_id=0
-Hangul: 십, Hanja: 拾 | http://hanja.naver.com/hanja?q=拾&cp_code=0&sound_id=0
-Hangul: 십, Hanja: 汁 | http://hanja.naver.com/hanja?q=汁&cp_code=0&sound_id=0
-Hangul: 아, Hanja: 唲 | http://hanja.naver.com/hanja?q=唲&cp_code=0&sound_id=0
-Hangul: 악, Hanja: 嗌 | http://hanja.naver.com/hanja?q=嗌&cp_code=0&sound_id=0
-Hangul: 악, Hanja: 攊 | http://hanja.naver.com/hanja?q=攊&cp_code=0&sound_id=0
-Hangul: 안, Hanja: 喭 | http://hanja.naver.com/hanja?q=喭&cp_code=0&sound_id=0
-Hangul: 알, Hanja: 按 | http://hanja.naver.com/hanja?q=按&cp_code=0&sound_id=0
-Hangul: 암, Hanja: 喑 | http://hanja.naver.com/hanja?q=喑&cp_code=0&sound_id=0
-Hangul: 압, Hanja: 匼 | http://hanja.naver.com/hanja?q=匼&cp_code=0&sound_id=0
-Hangul: 애, Hanja: 嗌 | http://hanja.naver.com/hanja?q=嗌&cp_code=0&sound_id=0
-Hangul: 야, Hanja: 若 | http://hanja.naver.com/hanja?q=若&cp_code=0&sound_id=0
-Hangul: 약, Hanja: 掠 | http://hanja.naver.com/hanja?q=掠&cp_code=0&sound_id=0
-Hangul: 약, Hanja: 略 | http://hanja.naver.com/hanja?q=略&cp_code=0&sound_id=0
-Hangul: 약, Hanja: 攊 | http://hanja.naver.com/hanja?q=攊&cp_code=0&sound_id=0
-Hangul: 양, Hanja: 亮 | http://hanja.naver.com/hanja?q=亮&cp_code=0&sound_id=0
-Hangul: 양, Hanja: 兩 | http://hanja.naver.com/hanja?q=兩&cp_code=0&sound_id=0
-Hangul: 양, Hanja: 凉 | http://hanja.naver.com/hanja?q=凉&cp_code=0&sound_id=0
-Hangul: 양, Hanja: 梁 | http://hanja.naver.com/hanja?q=梁&cp_code=0&sound_id=0
-Hangul: 양, Hanja: 糧 | http://hanja.naver.com/hanja?q=糧&cp_code=0&sound_id=0
-Hangul: 양, Hanja: 良 | http://hanja.naver.com/hanja?q=良&cp_code=0&sound_id=0
-Hangul: 양, Hanja: 諒 | http://hanja.naver.com/hanja?q=諒&cp_code=0&sound_id=0
-Hangul: 양, Hanja: 量 | http://hanja.naver.com/hanja?q=量&cp_code=0&sound_id=0
-Hangul: 양, Hanja: 儴 | http://hanja.naver.com/hanja?q=儴&cp_code=0&sound_id=0
-Hangul: 어, Hanja: 閼 | http://hanja.naver.com/hanja?q=閼&cp_code=0&sound_id=0
-Hangul: 얼, Hanja: 噦 | http://hanja.naver.com/hanja?q=噦&cp_code=0&sound_id=0
-Hangul: 얼, Hanja: 讞 | http://hanja.naver.com/hanja?q=讞&cp_code=0&sound_id=0
-Hangul: 엄, Hanja: 厱 | http://hanja.naver.com/hanja?q=厱&cp_code=0&sound_id=0
-Hangul: 엄, Hanja: 吅 | http://hanja.naver.com/hanja?q=吅&cp_code=0&sound_id=0
-Hangul: 여, Hanja: 勵 | http://hanja.naver.com/hanja?q=勵&cp_code=0&sound_id=0
-Hangul: 여, Hanja: 呂 | http://hanja.naver.com/hanja?q=呂&cp_code=0&sound_id=0
-Hangul: 여, Hanja: 女 | http://hanja.naver.com/hanja?q=女&cp_code=0&sound_id=0
-Hangul: 여, Hanja: 廬 | http://hanja.naver.com/hanja?q=廬&cp_code=0&sound_id=0
-Hangul: 여, Hanja: 旅 | http://hanja.naver.com/hanja?q=旅&cp_code=0&sound_id=0
-Hangul: 여, Hanja: 濾 | http://hanja.naver.com/hanja?q=濾&cp_code=0&sound_id=0
-Hangul: 여, Hanja: 礪 | http://hanja.naver.com/hanja?q=礪&cp_code=0&sound_id=0
-Hangul: 여, Hanja: 閭 | http://hanja.naver.com/hanja?q=閭&cp_code=0&sound_id=0
-Hangul: 여, Hanja: 驪 | http://hanja.naver.com/hanja?q=驪&cp_code=0&sound_id=0
-Hangul: 여, Hanja: 麗 | http://hanja.naver.com/hanja?q=麗&cp_code=0&sound_id=0
-Hangul: 여, Hanja: 黎 | http://hanja.naver.com/hanja?q=黎&cp_code=0&sound_id=0
-Hangul: 여, Hanja: 黧 | http://hanja.naver.com/hanja?q=黧&cp_code=0&sound_id=0
-Hangul: 여, Hanja: 邌 | http://hanja.naver.com/hanja?q=邌&cp_code=0&sound_id=0
-Hangul: 여, Hanja: 戻 | http://hanja.naver.com/hanja?q=戻&cp_code=0&sound_id=0
-Hangul: 역, Hanja: 力 | http://hanja.naver.com/hanja?q=力&cp_code=0&sound_id=0
-Hangul: 역, Hanja: 曆 | http://hanja.naver.com/hanja?q=曆&cp_code=0&sound_id=0
-Hangul: 역, Hanja: 歷 | http://hanja.naver.com/hanja?q=歷&cp_code=0&sound_id=0
-Hangul: 역, Hanja: 轢 | http://hanja.naver.com/hanja?q=轢&cp_code=0&sound_id=0
-Hangul: 역, Hanja: 攊 | http://hanja.naver.com/hanja?q=攊&cp_code=0&sound_id=0
-Hangul: 연, Hanja: 年 | http://hanja.naver.com/hanja?q=年&cp_code=0&sound_id=0
-Hangul: 연, Hanja: 憐 | http://hanja.naver.com/hanja?q=憐&cp_code=0&sound_id=0
-Hangul: 연, Hanja: 戀 | http://hanja.naver.com/hanja?q=戀&cp_code=0&sound_id=0
-Hangul: 연, Hanja: 撚 | http://hanja.naver.com/hanja?q=撚&cp_code=0&sound_id=0
-Hangul: 연, Hanja: 漣 | http://hanja.naver.com/hanja?q=漣&cp_code=0&sound_id=0
-Hangul: 연, Hanja: 煉 | http://hanja.naver.com/hanja?q=煉&cp_code=0&sound_id=0
-Hangul: 연, Hanja: 璉 | http://hanja.naver.com/hanja?q=璉&cp_code=0&sound_id=0
-Hangul: 연, Hanja: 秊 | http://hanja.naver.com/hanja?q=秊&cp_code=0&sound_id=0
-Hangul: 연, Hanja: 練 | http://hanja.naver.com/hanja?q=練&cp_code=0&sound_id=0
-Hangul: 연, Hanja: 聯 | http://hanja.naver.com/hanja?q=聯&cp_code=0&sound_id=0
-Hangul: 연, Hanja: 輦 | http://hanja.naver.com/hanja?q=輦&cp_code=0&sound_id=0
-Hangul: 연, Hanja: 蓮 | http://hanja.naver.com/hanja?q=蓮&cp_code=0&sound_id=0
-Hangul: 연, Hanja: 連 | http://hanja.naver.com/hanja?q=連&cp_code=0&sound_id=0
-Hangul: 연, Hanja: 鍊 | http://hanja.naver.com/hanja?q=鍊&cp_code=0&sound_id=0
-Hangul: 연, Hanja: 唌 | http://hanja.naver.com/hanja?q=唌&cp_code=0&sound_id=0
-Hangul: 연, Hanja: 閼 | http://hanja.naver.com/hanja?q=閼&cp_code=0&sound_id=0
-Hangul: 연, Hanja: 孿 | http://hanja.naver.com/hanja?q=孿&cp_code=0&sound_id=0
-Hangul: 연, Hanja: 熯 | http://hanja.naver.com/hanja?q=熯&cp_code=0&sound_id=0
-Hangul: 연, Hanja: 羨 | http://hanja.naver.com/hanja?q=羨&cp_code=0&sound_id=0
-Hangul: 열, Hanja: 列 | http://hanja.naver.com/hanja?q=列&cp_code=0&sound_id=0
-Hangul: 열, Hanja: 劣 | http://hanja.naver.com/hanja?q=劣&cp_code=0&sound_id=0
-Hangul: 열, Hanja: 咽 | http://hanja.naver.com/hanja?q=咽&cp_code=0&sound_id=0
-Hangul: 열, Hanja: 烈 | http://hanja.naver.com/hanja?q=烈&cp_code=0&sound_id=0
-Hangul: 열, Hanja: 裂 | http://hanja.naver.com/hanja?q=裂&cp_code=0&sound_id=0
-Hangul: 열, Hanja: 說 | http://hanja.naver.com/hanja?q=說&cp_code=0&sound_id=0
-Hangul: 열, Hanja: 挒 | http://hanja.naver.com/hanja?q=挒&cp_code=0&sound_id=0
-Hangul: 열, Hanja: 戻 | http://hanja.naver.com/hanja?q=戻&cp_code=0&sound_id=0
-Hangul: 염, Hanja: 廉 | http://hanja.naver.com/hanja?q=廉&cp_code=0&sound_id=0
-Hangul: 염, Hanja: 念 | http://hanja.naver.com/hanja?q=念&cp_code=0&sound_id=0
-Hangul: 염, Hanja: 捻 | http://hanja.naver.com/hanja?q=捻&cp_code=0&sound_id=0
-Hangul: 염, Hanja: 殮 | http://hanja.naver.com/hanja?q=殮&cp_code=0&sound_id=0
-Hangul: 염, Hanja: 簾 | http://hanja.naver.com/hanja?q=簾&cp_code=0&sound_id=0
-Hangul: 염, Hanja: 歛 | http://hanja.naver.com/hanja?q=歛&cp_code=0&sound_id=0
-Hangul: 엽, Hanja: 獵 | http://hanja.naver.com/hanja?q=獵&cp_code=0&sound_id=0
-Hangul: 엽, Hanja: 喦 | http://hanja.naver.com/hanja?q=喦&cp_code=0&sound_id=0
-Hangul: 영, Hanja: 令 | http://hanja.naver.com/hanja?q=令&cp_code=0&sound_id=0
-Hangul: 영, Hanja: 囹 | http://hanja.naver.com/hanja?q=囹&cp_code=0&sound_id=0
-Hangul: 영, Hanja: 寧 | http://hanja.naver.com/hanja?q=寧&cp_code=0&sound_id=0
-Hangul: 영, Hanja: 嶺 | http://hanja.naver.com/hanja?q=嶺&cp_code=0&sound_id=0
-Hangul: 영, Hanja: 怜 | http://hanja.naver.com/hanja?q=怜&cp_code=0&sound_id=0
-Hangul: 영, Hanja: 玲 | http://hanja.naver.com/hanja?q=玲&cp_code=0&sound_id=0
-Hangul: 영, Hanja: 瑩 | http://hanja.naver.com/hanja?q=瑩&cp_code=0&sound_id=0
-Hangul: 영, Hanja: 羚 | http://hanja.naver.com/hanja?q=羚&cp_code=0&sound_id=0
-Hangul: 영, Hanja: 聆 | http://hanja.naver.com/hanja?q=聆&cp_code=0&sound_id=0
-Hangul: 영, Hanja: 鈴 | http://hanja.naver.com/hanja?q=鈴&cp_code=0&sound_id=0
-Hangul: 영, Hanja: 零 | http://hanja.naver.com/hanja?q=零&cp_code=0&sound_id=0
-Hangul: 영, Hanja: 靈 | http://hanja.naver.com/hanja?q=靈&cp_code=0&sound_id=0
-Hangul: 영, Hanja: 領 | http://hanja.naver.com/hanja?q=領&cp_code=0&sound_id=0
-Hangul: 예, Hanja: 例 | http://hanja.naver.com/hanja?q=例&cp_code=0&sound_id=0
-Hangul: 예, Hanja: 禮 | http://hanja.naver.com/hanja?q=禮&cp_code=0&sound_id=0
-Hangul: 예, Hanja: 醴 | http://hanja.naver.com/hanja?q=醴&cp_code=0&sound_id=0
-Hangul: 예, Hanja: 隸 | http://hanja.naver.com/hanja?q=隸&cp_code=0&sound_id=0
-Hangul: 예, Hanja: 医 | http://hanja.naver.com/hanja?q=医&cp_code=0&sound_id=0
-Hangul: 예, Hanja: 澧 | http://hanja.naver.com/hanja?q=澧&cp_code=0&sound_id=0
-Hangul: 예, Hanja: 豊 | http://hanja.naver.com/hanja?q=豊&cp_code=0&sound_id=0
-Hangul: 예, Hanja: 鱧 | http://hanja.naver.com/hanja?q=鱧&cp_code=0&sound_id=0
-Hangul: 예, Hanja: 礼 | http://hanja.naver.com/hanja?q=礼&cp_code=0&sound_id=0
-Hangul: 예, Hanja: 礼 | http://hanja.naver.com/hanja?q=礼&cp_code=0&sound_id=0
-Hangul: 예, Hanja: 禰 | http://hanja.naver.com/hanja?q=禰&cp_code=0&sound_id=0
-Hangul: 오, Hanja: 惡 | http://hanja.naver.com/hanja?q=惡&cp_code=0&sound_id=0
-Hangul: 오, Hanja: 迂 | http://hanja.naver.com/hanja?q=迂&cp_code=0&sound_id=0
-Hangul: 온, Hanja: 穏 | http://hanja.naver.com/hanja?q=穏&cp_code=0&sound_id=0
-Hangul: 올, Hanja: 兀 | http://hanja.naver.com/hanja?q=兀&cp_code=0&sound_id=0
-Hangul: 와, Hanja: 倭 | http://hanja.naver.com/hanja?q=倭&cp_code=0&sound_id=0
-Hangul: 왕, Hanja: 迋 | http://hanja.naver.com/hanja?q=迋&cp_code=0&sound_id=0
-Hangul: 왜, Hanja: 矮 | http://hanja.naver.com/hanja?q=矮&cp_code=0&sound_id=0
-Hangul: 요, Hanja: 了 | http://hanja.naver.com/hanja?q=了&cp_code=0&sound_id=0
-Hangul: 요, Hanja: 僚 | http://hanja.naver.com/hanja?q=僚&cp_code=0&sound_id=0
-Hangul: 요, Hanja: 寮 | http://hanja.naver.com/hanja?q=寮&cp_code=0&sound_id=0
-Hangul: 요, Hanja: 尿 | http://hanja.naver.com/hanja?q=尿&cp_code=0&sound_id=0
-Hangul: 요, Hanja: 料 | http://hanja.naver.com/hanja?q=料&cp_code=0&sound_id=0
-Hangul: 요, Hanja: 樂 | http://hanja.naver.com/hanja?q=樂&cp_code=0&sound_id=0
-Hangul: 요, Hanja: 燎 | http://hanja.naver.com/hanja?q=燎&cp_code=0&sound_id=0
-Hangul: 요, Hanja: 療 | http://hanja.naver.com/hanja?q=療&cp_code=0&sound_id=0
-Hangul: 요, Hanja: 蓼 | http://hanja.naver.com/hanja?q=蓼&cp_code=0&sound_id=0
-Hangul: 요, Hanja: 遼 | http://hanja.naver.com/hanja?q=遼&cp_code=0&sound_id=0
-Hangul: 용, Hanja: 龍 | http://hanja.naver.com/hanja?q=龍&cp_code=0&sound_id=0
-Hangul: 용, Hanja: 竜 | http://hanja.naver.com/hanja?q=竜&cp_code=0&sound_id=0
-Hangul: 용, Hanja: 龒 | http://hanja.naver.com/hanja?q=龒&cp_code=0&sound_id=0
-Hangul: 우, Hanja: 羽 | http://hanja.naver.com/hanja?q=羽&cp_code=0&sound_id=0
-Hangul: 우, Hanja: 噢 | http://hanja.naver.com/hanja?q=噢&cp_code=0&sound_id=0
-Hangul: 우, Hanja: 惢 | http://hanja.naver.com/hanja?q=惢&cp_code=0&sound_id=0
-Hangul: 욱, Hanja: 噢 | http://hanja.naver.com/hanja?q=噢&cp_code=0&sound_id=0
-Hangul: 운, Hanja: 暈 | http://hanja.naver.com/hanja?q=暈&cp_code=0&sound_id=0
-Hangul: 원, Hanja: 阮 | http://hanja.naver.com/hanja?q=阮&cp_code=0&sound_id=0
-Hangul: 원, Hanja: 楦 | http://hanja.naver.com/hanja?q=楦&cp_code=0&sound_id=0
-Hangul: 원, Hanja: 园 | http://hanja.naver.com/hanja?q=园&cp_code=0&sound_id=0
-Hangul: 위, Hanja: 厃 | http://hanja.naver.com/hanja?q=厃&cp_code=0&sound_id=0
-Hangul: 위, Hanja: 嘳 | http://hanja.naver.com/hanja?q=嘳&cp_code=0&sound_id=0
-Hangul: 유, Hanja: 劉 | http://hanja.naver.com/hanja?q=劉&cp_code=0&sound_id=0
-Hangul: 유, Hanja: 杻 | http://hanja.naver.com/hanja?q=杻&cp_code=0&sound_id=0
-Hangul: 유, Hanja: 柳 | http://hanja.naver.com/hanja?q=柳&cp_code=0&sound_id=0
-Hangul: 유, Hanja: 流 | http://hanja.naver.com/hanja?q=流&cp_code=0&sound_id=0
-Hangul: 유, Hanja: 溜 | http://hanja.naver.com/hanja?q=溜&cp_code=0&sound_id=0
-Hangul: 유, Hanja: 琉 | http://hanja.naver.com/hanja?q=琉&cp_code=0&sound_id=0
-Hangul: 유, Hanja: 留 | http://hanja.naver.com/hanja?q=留&cp_code=0&sound_id=0
-Hangul: 유, Hanja: 硫 | http://hanja.naver.com/hanja?q=硫&cp_code=0&sound_id=0
-Hangul: 유, Hanja: 紐 | http://hanja.naver.com/hanja?q=紐&cp_code=0&sound_id=0
-Hangul: 유, Hanja: 類 | http://hanja.naver.com/hanja?q=類&cp_code=0&sound_id=0
-Hangul: 유, Hanja: 吁 | http://hanja.naver.com/hanja?q=吁&cp_code=0&sound_id=0
-Hangul: 유, Hanja: 橊 | http://hanja.naver.com/hanja?q=橊&cp_code=0&sound_id=0
-Hangul: 유, Hanja: 靵 | http://hanja.naver.com/hanja?q=靵&cp_code=0&sound_id=0
-Hangul: 육, Hanja: 六 | http://hanja.naver.com/hanja?q=六&cp_code=0&sound_id=0
-Hangul: 육, Hanja: 戮 | http://hanja.naver.com/hanja?q=戮&cp_code=0&sound_id=0
-Hangul: 육, Hanja: 陸 | http://hanja.naver.com/hanja?q=陸&cp_code=0&sound_id=0
-Hangul: 육, Hanja: 勠 | http://hanja.naver.com/hanja?q=勠&cp_code=0&sound_id=0
-Hangul: 윤, Hanja: 倫 | http://hanja.naver.com/hanja?q=倫&cp_code=0&sound_id=0
-Hangul: 윤, Hanja: 崙 | http://hanja.naver.com/hanja?q=崙&cp_code=0&sound_id=0
-Hangul: 윤, Hanja: 淪 | http://hanja.naver.com/hanja?q=淪&cp_code=0&sound_id=0
-Hangul: 윤, Hanja: 輪 | http://hanja.naver.com/hanja?q=輪&cp_code=0&sound_id=0
-Hangul: 율, Hanja: 律 | http://hanja.naver.com/hanja?q=律&cp_code=0&sound_id=0
-Hangul: 율, Hanja: 慄 | http://hanja.naver.com/hanja?q=慄&cp_code=0&sound_id=0
-Hangul: 율, Hanja: 栗 | http://hanja.naver.com/hanja?q=栗&cp_code=0&sound_id=0
-Hangul: 율, Hanja: 率 | http://hanja.naver.com/hanja?q=率&cp_code=0&sound_id=0
-Hangul: 율, Hanja: 凓 | http://hanja.naver.com/hanja?q=凓&cp_code=0&sound_id=0
-Hangul: 융, Hanja: 隆 | http://hanja.naver.com/hanja?q=隆&cp_code=0&sound_id=0
-Hangul: 은, Hanja: 眼 | http://hanja.naver.com/hanja?q=眼&cp_code=0&sound_id=0
-Hangul: 이, Hanja: 利 | http://hanja.naver.com/hanja?q=利&cp_code=0&sound_id=0
-Hangul: 이, Hanja: 吏 | http://hanja.naver.com/hanja?q=吏&cp_code=0&sound_id=0
-Hangul: 이, Hanja: 履 | http://hanja.naver.com/hanja?q=履&cp_code=0&sound_id=0
-Hangul: 이, Hanja: 易 | http://hanja.naver.com/hanja?q=易&cp_code=0&sound_id=0
-Hangul: 이, Hanja: 李 | http://hanja.naver.com/hanja?q=李&cp_code=0&sound_id=0
-Hangul: 이, Hanja: 梨 | http://hanja.naver.com/hanja?q=梨&cp_code=0&sound_id=0
-Hangul: 이, Hanja: 泥 | http://hanja.naver.com/hanja?q=泥&cp_code=0&sound_id=0
-Hangul: 이, Hanja: 理 | http://hanja.naver.com/hanja?q=理&cp_code=0&sound_id=0
-Hangul: 이, Hanja: 痢 | http://hanja.naver.com/hanja?q=痢&cp_code=0&sound_id=0
-Hangul: 이, Hanja: 罹 | http://hanja.naver.com/hanja?q=罹&cp_code=0&sound_id=0
-Hangul: 이, Hanja: 裏 | http://hanja.naver.com/hanja?q=裏&cp_code=0&sound_id=0
-Hangul: 이, Hanja: 裡 | http://hanja.naver.com/hanja?q=裡&cp_code=0&sound_id=0
-Hangul: 이, Hanja: 里 | http://hanja.naver.com/hanja?q=里&cp_code=0&sound_id=0
-Hangul: 이, Hanja: 離 | http://hanja.naver.com/hanja?q=離&cp_code=0&sound_id=0
-Hangul: 이, Hanja: 阤 | http://hanja.naver.com/hanja?q=阤&cp_code=0&sound_id=0
-Hangul: 이, Hanja: 灑 | http://hanja.naver.com/hanja?q=灑&cp_code=0&sound_id=0
-Hangul: 이, Hanja: 黧 | http://hanja.naver.com/hanja?q=黧&cp_code=0&sound_id=0
-Hangul: 이, Hanja: 剓 | http://hanja.naver.com/hanja?q=剓&cp_code=0&sound_id=0
-Hangul: 이, Hanja: 刕 | http://hanja.naver.com/hanja?q=刕&cp_code=0&sound_id=0
-Hangul: 이, Hanja: 隸 | http://hanja.naver.com/hanja?q=隸&cp_code=0&sound_id=0
-Hangul: 이, Hanja: 隷 | http://hanja.naver.com/hanja?q=隷&cp_code=0&sound_id=0
-Hangul: 이, Hanja: 禰 | http://hanja.naver.com/hanja?q=禰&cp_code=0&sound_id=0
-Hangul: 익, Hanja: 匿 | http://hanja.naver.com/hanja?q=匿&cp_code=0&sound_id=0
-Hangul: 익, Hanja: 溺 | http://hanja.naver.com/hanja?q=溺&cp_code=0&sound_id=0
-Hangul: 익, Hanja: 益 | http://hanja.naver.com/hanja?q=益&cp_code=0&sound_id=0
-Hangul: 인, Hanja: 吝 | http://hanja.naver.com/hanja?q=吝&cp_code=0&sound_id=0
-Hangul: 인, Hanja: 燐 | http://hanja.naver.com/hanja?q=燐&cp_code=0&sound_id=0
-Hangul: 인, Hanja: 璘 | http://hanja.naver.com/hanja?q=璘&cp_code=0&sound_id=0
-Hangul: 인, Hanja: 藺 | http://hanja.naver.com/hanja?q=藺&cp_code=0&sound_id=0
-Hangul: 인, Hanja: 隣 | http://hanja.naver.com/hanja?q=隣&cp_code=0&sound_id=0
-Hangul: 인, Hanja: 鱗 | http://hanja.naver.com/hanja?q=鱗&cp_code=0&sound_id=0
-Hangul: 인, Hanja: 麟 | http://hanja.naver.com/hanja?q=麟&cp_code=0&sound_id=0
-Hangul: 일, Hanja: 逸 | http://hanja.naver.com/hanja?q=逸&cp_code=0&sound_id=0
-Hangul: 일, Hanja: 益 | http://hanja.naver.com/hanja?q=益&cp_code=0&sound_id=0
-Hangul: 임, Hanja: 林 | http://hanja.naver.com/hanja?q=林&cp_code=0&sound_id=0
-Hangul: 임, Hanja: 淋 | http://hanja.naver.com/hanja?q=淋&cp_code=0&sound_id=0
-Hangul: 임, Hanja: 臨 | http://hanja.naver.com/hanja?q=臨&cp_code=0&sound_id=0
-Hangul: 임, Hanja: 惏 | http://hanja.naver.com/hanja?q=惏&cp_code=0&sound_id=0
-Hangul: 입, Hanja: 立 | http://hanja.naver.com/hanja?q=立&cp_code=0&sound_id=0
-Hangul: 입, Hanja: 笠 | http://hanja.naver.com/hanja?q=笠&cp_code=0&sound_id=0
-Hangul: 입, Hanja: 粒 | http://hanja.naver.com/hanja?q=粒&cp_code=0&sound_id=0
-Hangul: 입, Hanja: 叺 | http://hanja.naver.com/hanja?q=叺&cp_code=0&sound_id=0
-Hangul: 자, Hanja: 齊 | http://hanja.naver.com/hanja?q=齊&cp_code=0&sound_id=0
-Hangul: 장, Hanja: 狀 | http://hanja.naver.com/hanja?q=狀&cp_code=0&sound_id=0
-Hangul: 장, Hanja: 状 | http://hanja.naver.com/hanja?q=状&cp_code=0&sound_id=0
-Hangul: 재, Hanja: 齊 | http://hanja.naver.com/hanja?q=齊&cp_code=0&sound_id=0
-Hangul: 저, Hanja: 猪 | http://hanja.naver.com/hanja?q=猪&cp_code=0&sound_id=0
-Hangul: 저, Hanja: 諸 | http://hanja.naver.com/hanja?q=諸&cp_code=0&sound_id=0
-Hangul: 적, Hanja: 炙 | http://hanja.naver.com/hanja?q=炙&cp_code=0&sound_id=0
-Hangul: 전, Hanja: 専 | http://hanja.naver.com/hanja?q=専&cp_code=0&sound_id=0
-Hangul: 전, Hanja: 齊 | http://hanja.naver.com/hanja?q=齊&cp_code=0&sound_id=0
-Hangul: 절, Hanja: 蕞 | http://hanja.naver.com/hanja?q=蕞&cp_code=0&sound_id=0
-Hangul: 정, Hanja: 靖 | http://hanja.naver.com/hanja?q=靖&cp_code=0&sound_id=0
-Hangul: 정, Hanja: 精 | http://hanja.naver.com/hanja?q=精&cp_code=0&sound_id=0
-Hangul: 제, Hanja: 諸 | http://hanja.naver.com/hanja?q=諸&cp_code=0&sound_id=0
-Hangul: 제, Hanja: 蝉 | http://hanja.naver.com/hanja?q=蝉&cp_code=0&sound_id=0
-Hangul: 제, Hanja: 蟬 | http://hanja.naver.com/hanja?q=蟬&cp_code=0&sound_id=0
-Hangul: 졸, Hanja: 伜 | http://hanja.naver.com/hanja?q=伜&cp_code=0&sound_id=0
-Hangul: 준, Hanja: 僎 | http://hanja.naver.com/hanja?q=僎&cp_code=0&sound_id=0
-Hangul: 중, Hanja: 乑 | http://hanja.naver.com/hanja?q=乑&cp_code=0&sound_id=0
-Hangul: 증, Hanja: 塍 | http://hanja.naver.com/hanja?q=塍&cp_code=0&sound_id=0
-Hangul: 지, Hanja: 識 | http://hanja.naver.com/hanja?q=識&cp_code=0&sound_id=0
-Hangul: 지, Hanja: 逇 | http://hanja.naver.com/hanja?q=逇&cp_code=0&sound_id=0
-Hangul: 지, Hanja: 邌 | http://hanja.naver.com/hanja?q=邌&cp_code=0&sound_id=0
-Hangul: 지, Hanja: 都 | http://hanja.naver.com/hanja?q=都&cp_code=0&sound_id=0
-Hangul: 집, Hanja: 什 | http://hanja.naver.com/hanja?q=什&cp_code=0&sound_id=0
-Hangul: 집, Hanja: 汁 | http://hanja.naver.com/hanja?q=汁&cp_code=0&sound_id=0
-Hangul: 차, Hanja: 茶 | http://hanja.naver.com/hanja?q=茶&cp_code=0&sound_id=0
-Hangul: 차, Hanja: 仛 | http://hanja.naver.com/hanja?q=仛&cp_code=0&sound_id=0
-Hangul: 차, Hanja: 剳 | http://hanja.naver.com/hanja?q=剳&cp_code=0&sound_id=0
-Hangul: 차, Hanja: 齄 | http://hanja.naver.com/hanja?q=齄&cp_code=0&sound_id=0
-Hangul: 차, Hanja: 齜 | http://hanja.naver.com/hanja?q=齜&cp_code=0&sound_id=0
-Hangul: 차, Hanja: 猪 | http://hanja.naver.com/hanja?q=猪&cp_code=0&sound_id=0
-Hangul: 차, Hanja: 泚 | http://hanja.naver.com/hanja?q=泚&cp_code=0&sound_id=0
-Hangul: 착, Hanja: 蔟 | http://hanja.naver.com/hanja?q=蔟&cp_code=0&sound_id=0
-Hangul: 찬, Hanja: 戔 | http://hanja.naver.com/hanja?q=戔&cp_code=0&sound_id=0
-Hangul: 찬, Hanja: 譔 | http://hanja.naver.com/hanja?q=譔&cp_code=0&sound_id=0
-Hangul: 찬, Hanja: 饍 | http://hanja.naver.com/hanja?q=饍&cp_code=0&sound_id=0
-Hangul: 찬, Hanja: 串 | http://hanja.naver.com/hanja?q=串&cp_code=0&sound_id=0
-Hangul: 찰, Hanja: 囋 | http://hanja.naver.com/hanja?q=囋&cp_code=0&sound_id=0
-Hangul: 참, Hanja: 參 | http://hanja.naver.com/hanja?q=參&cp_code=0&sound_id=0
-Hangul: 척, Hanja: 刺 | http://hanja.naver.com/hanja?q=刺&cp_code=0&sound_id=0
-Hangul: 척, Hanja: 槭 | http://hanja.naver.com/hanja?q=槭&cp_code=0&sound_id=0
-Hangul: 철, Hanja: 軼 | http://hanja.naver.com/hanja?q=軼&cp_code=0&sound_id=0
-Hangul: 첨, Hanja: 覘 | http://hanja.naver.com/hanja?q=覘&cp_code=0&sound_id=0
-Hangul: 첩, Hanja: 帕 | http://hanja.naver.com/hanja?q=帕&cp_code=0&sound_id=0
-Hangul: 청, Hanja: 錆 | http://hanja.naver.com/hanja?q=錆&cp_code=0&sound_id=0
-Hangul: 청, Hanja: 晴 | http://hanja.naver.com/hanja?q=晴&cp_code=0&sound_id=0
-Hangul: 체, Hanja: 切 | http://hanja.naver.com/hanja?q=切&cp_code=0&sound_id=0
-Hangul: 초, Hanja: 嘮 | http://hanja.naver.com/hanja?q=嘮&cp_code=0&sound_id=0
-Hangul: 촉, Hanja: 属 | http://hanja.naver.com/hanja?q=属&cp_code=0&sound_id=0
-Hangul: 총, Hanja: 囱 | http://hanja.naver.com/hanja?q=囱&cp_code=0&sound_id=0
-Hangul: 총, Hanja: 塚 | http://hanja.naver.com/hanja?q=塚&cp_code=0&sound_id=0
-Hangul: 총, Hanja: 龍 | http://hanja.naver.com/hanja?q=龍&cp_code=0&sound_id=0
-Hangul: 총, Hanja: 竜 | http://hanja.naver.com/hanja?q=竜&cp_code=0&sound_id=0
-Hangul: 총, Hanja: 龒 | http://hanja.naver.com/hanja?q=龒&cp_code=0&sound_id=0
-Hangul: 촬, Hanja: 蕞 | http://hanja.naver.com/hanja?q=蕞&cp_code=0&sound_id=0
-Hangul: 최, Hanja: 洒 | http://hanja.naver.com/hanja?q=洒&cp_code=0&sound_id=0
-Hangul: 추, Hanja: 揣 | http://hanja.naver.com/hanja?q=揣&cp_code=0&sound_id=0
-Hangul: 축, Hanja: 嘁 | http://hanja.naver.com/hanja?q=嘁&cp_code=0&sound_id=0
-Hangul: 축, Hanja: 潚 | http://hanja.naver.com/hanja?q=潚&cp_code=0&sound_id=0
-Hangul: 취, Hanja: 顇 | http://hanja.naver.com/hanja?q=顇&cp_code=0&sound_id=0
-Hangul: 치, Hanja: 偨 | http://hanja.naver.com/hanja?q=偨&cp_code=0&sound_id=0
-Hangul: 치, Hanja: 昃 | http://hanja.naver.com/hanja?q=昃&cp_code=0&sound_id=0
-Hangul: 타, Hanja: 仛 | http://hanja.naver.com/hanja?q=仛&cp_code=0&sound_id=0
-Hangul: 탁, Hanja: 度 | http://hanja.naver.com/hanja?q=度&cp_code=0&sound_id=0
-Hangul: 탁, Hanja: 拓 | http://hanja.naver.com/hanja?q=拓&cp_code=0&sound_id=0
-Hangul: 탕, Hanja: 糖 | http://hanja.naver.com/hanja?q=糖&cp_code=0&sound_id=0
-Hangul: 태, Hanja: 態 | http://hanja.naver.com/hanja?q=態&cp_code=0&sound_id=0
-Hangul: 택, Hanja: 宅 | http://hanja.naver.com/hanja?q=宅&cp_code=0&sound_id=0
-Hangul: 통, Hanja: 洞 | http://hanja.naver.com/hanja?q=洞&cp_code=0&sound_id=0
-Hangul: 패, Hanja: 壩 | http://hanja.naver.com/hanja?q=壩&cp_code=0&sound_id=0
-Hangul: 패, Hanja: 芾 | http://hanja.naver.com/hanja?q=芾&cp_code=0&sound_id=0
-Hangul: 포, Hanja: 暴 | http://hanja.naver.com/hanja?q=暴&cp_code=0&sound_id=0
-Hangul: 폭, Hanja: 輻 | http://hanja.naver.com/hanja?q=輻&cp_code=0&sound_id=0
-Hangul: 필, Hanja: 芾 | http://hanja.naver.com/hanja?q=芾&cp_code=0&sound_id=0
-Hangul: 학, Hanja: 鶴 | http://hanja.naver.com/hanja?q=鶴&cp_code=0&sound_id=0
-Hangul: 함, Hanja: 酣 | http://hanja.naver.com/hanja?q=酣&cp_code=0&sound_id=0
-Hangul: 함, Hanja: 澉 | http://hanja.naver.com/hanja?q=澉&cp_code=0&sound_id=0
-Hangul: 함, Hanja: 淦 | http://hanja.naver.com/hanja?q=淦&cp_code=0&sound_id=0
-Hangul: 함, Hanja: 泔 | http://hanja.naver.com/hanja?q=泔&cp_code=0&sound_id=0
-Hangul: 함, Hanja: 歛 | http://hanja.naver.com/hanja?q=歛&cp_code=0&sound_id=0
-Hangul: 항, Hanja: 行 | http://hanja.naver.com/hanja?q=行&cp_code=0&sound_id=0
-Hangul: 항, Hanja: 降 | http://hanja.naver.com/hanja?q=降&cp_code=0&sound_id=0
-Hangul: 현, Hanja: 見 | http://hanja.naver.com/hanja?q=見&cp_code=0&sound_id=0
-Hangul: 협, Hanja: 汁 | http://hanja.naver.com/hanja?q=汁&cp_code=0&sound_id=0
-Hangul: 혜, Hanja: 儶 | http://hanja.naver.com/hanja?q=儶&cp_code=0&sound_id=0
-Hangul: 호, Hanja: 羽 | http://hanja.naver.com/hanja?q=羽&cp_code=0&sound_id=0
-Hangul: 혼, Hanja: 鯇 | http://hanja.naver.com/hanja?q=鯇&cp_code=0&sound_id=0
-Hangul: 화, Hanja: 哇 | http://hanja.naver.com/hanja?q=哇&cp_code=0&sound_id=0
-Hangul: 확, Hanja: 廓 | http://hanja.naver.com/hanja?q=廓&cp_code=0&sound_id=0
-Hangul: 확, Hanja: 塙 | http://hanja.naver.com/hanja?q=塙&cp_code=0&sound_id=0
-Hangul: 환, Hanja: 嚾 | http://hanja.naver.com/hanja?q=嚾&cp_code=0&sound_id=0
-Hangul: 환, Hanja: 圂 | http://hanja.naver.com/hanja?q=圂&cp_code=0&sound_id=0
-Hangul: 환, Hanja: 莞 | http://hanja.naver.com/hanja?q=莞&cp_code=0&sound_id=0
-Hangul: 효, Hanja: 嗃 | http://hanja.naver.com/hanja?q=嗃&cp_code=0&sound_id=0
-Hangul: 흔, Hanja: 佷 | http://hanja.naver.com/hanja?q=佷&cp_code=0&sound_id=0
-Hangul: 흠, Hanja: 吽 | http://hanja.naver.com/hanja?q=吽&cp_code=0&sound_id=0
-Hangul: 희, Hanja: 凞 | http://hanja.naver.com/hanja?q=凞&cp_code=0&sound_id=0
+hangul: 간, Hanja: 啃, CodePoint: U+5543 | http://hanja.naver.com/hanja?q=啃&cp_code=0&sound_id=0 -> O
+hangul: 감, Hanja: 芡, CodePoint: U+82A1 | http://hanja.naver.com/hanja?q=芡&cp_code=0&sound_id=0 -> O
+hangul: 갑, Hanja: 匼, CodePoint: U+533C | http://hanja.naver.com/hanja?q=匼&cp_code=0&sound_id=0 -> O
+hangul: 개, Hanja: 豈, CodePoint: U+F900 | http://hanja.naver.com/hanja?q=豈&cp_code=0&sound_id=0 -> O
+hangul: 갱, Hanja: 更, CodePoint: U+F901 | http://hanja.naver.com/hanja?q=更&cp_code=0&sound_id=0 -> O
+hangul: 거, Hanja: 車, CodePoint: U+F902 | http://hanja.naver.com/hanja?q=車&cp_code=0&sound_id=0 -> O
+hangul: 결, Hanja: 叏, CodePoint: U+53CF | http://hanja.naver.com/hanja?q=叏&cp_code=0&sound_id=0 -> O
+hangul: 겹, Hanja: 韐, CodePoint: U+97D0 | http://hanja.naver.com/hanja?q=韐&cp_code=0&sound_id=0 -> O
+hangul: 경, Hanja: 琁, CodePoint: U+7401 | http://hanja.naver.com/hanja?q=琁&cp_code=0&sound_id=0 -> O
+hangul: 고, Hanja: 賈, CodePoint: U+F903 | http://hanja.naver.com/hanja?q=賈&cp_code=0&sound_id=0 -> O
+hangul: 고, Hanja: 熇, CodePoint: U+7187 | http://hanja.naver.com/hanja?q=熇&cp_code=0&sound_id=0 -> O
+hangul: 골, Hanja: 滑, CodePoint: U+F904 | http://hanja.naver.com/hanja?q=滑&cp_code=0&sound_id=0 -> O
+hangul: 곶, Hanja: 串, CodePoint: U+F905 | http://hanja.naver.com/hanja?q=串&cp_code=0&sound_id=0 -> O
+hangul: 관, Hanja: 館, CodePoint: U+FA2C | http://hanja.naver.com/hanja?q=館&cp_code=0&sound_id=0 -> O
+hangul: 국, Hanja: 麹, CodePoint: U+9EB9 | http://hanja.naver.com/hanja?q=麹&cp_code=0&sound_id=0 -> O
+hangul: 권, Hanja: 顴, CodePoint: U+9874 | http://hanja.naver.com/hanja?q=顴&cp_code=0&sound_id=0 -> O
+hangul: 귀, Hanja: 句, CodePoint: U+F906 | http://hanja.naver.com/hanja?q=句&cp_code=0&sound_id=0 -> O
+hangul: 귀, Hanja: 龜, CodePoint: U+F907 | http://hanja.naver.com/hanja?q=龜&cp_code=0&sound_id=0 -> O
+hangul: 귀, Hanja: 亀, CodePoint: U+4E80 | http://hanja.naver.com/hanja?q=亀&cp_code=0&sound_id=0 -> O
+hangul: 규, Hanja: 哇, CodePoint: U+54C7 | http://hanja.naver.com/hanja?q=哇&cp_code=0&sound_id=0 -> O
+hangul: 규, Hanja: 嘄, CodePoint: U+5604 | http://hanja.naver.com/hanja?q=嘄&cp_code=0&sound_id=0 -> O
+hangul: 균, Hanja: 龜, CodePoint: U+F908 | http://hanja.naver.com/hanja?q=龜&cp_code=0&sound_id=0 -> O
+hangul: 균, Hanja: 亀, CodePoint: U+4E80 | http://hanja.naver.com/hanja?q=亀&cp_code=0&sound_id=0 -> O
+hangul: 근, Hanja: 肵, CodePoint: U+80B5 | http://hanja.naver.com/hanja?q=肵&cp_code=0&sound_id=0 -> O
+hangul: 글, Hanja: 契, CodePoint: U+F909 | http://hanja.naver.com/hanja?q=契&cp_code=0&sound_id=0 -> O
+hangul: 금, Hanja: 金, CodePoint: U+F90A | http://hanja.naver.com/hanja?q=金&cp_code=0&sound_id=0 -> O
+hangul: 긍, Hanja: 恆, CodePoint: U+6046 | http://hanja.naver.com/hanja?q=恆&cp_code=0&sound_id=0 -> O
+hangul: 나, Hanja: 喇, CodePoint: U+F90B | http://hanja.naver.com/hanja?q=喇&cp_code=0&sound_id=0 -> O
+hangul: 나, Hanja: 奈, CodePoint: U+F90C | http://hanja.naver.com/hanja?q=奈&cp_code=0&sound_id=0 -> O
+hangul: 나, Hanja: 懶, CodePoint: U+F90D | http://hanja.naver.com/hanja?q=懶&cp_code=0&sound_id=0 -> O
+hangul: 나, Hanja: 癩, CodePoint: U+F90E | http://hanja.naver.com/hanja?q=癩&cp_code=0&sound_id=0 -> O
+hangul: 나, Hanja: 羅, CodePoint: U+F90F | http://hanja.naver.com/hanja?q=羅&cp_code=0&sound_id=0 -> O
+hangul: 나, Hanja: 蘿, CodePoint: U+F910 | http://hanja.naver.com/hanja?q=蘿&cp_code=0&sound_id=0 -> O
+hangul: 나, Hanja: 螺, CodePoint: U+F911 | http://hanja.naver.com/hanja?q=螺&cp_code=0&sound_id=0 -> O
+hangul: 나, Hanja: 裸, CodePoint: U+F912 | http://hanja.naver.com/hanja?q=裸&cp_code=0&sound_id=0 -> O
+hangul: 나, Hanja: 邏, CodePoint: U+F913 | http://hanja.naver.com/hanja?q=邏&cp_code=0&sound_id=0 -> O
+hangul: 나, Hanja: 驘, CodePoint: U+9A58 | http://hanja.naver.com/hanja?q=驘&cp_code=0&sound_id=0 -> O
+hangul: 나, Hanja: 曪, CodePoint: U+66EA | http://hanja.naver.com/hanja?q=曪&cp_code=0&sound_id=0 -> O
+hangul: 나, Hanja: 亽, CodePoint: U+4EBD | http://hanja.naver.com/hanja?q=亽&cp_code=0&sound_id=0 -> O
+hangul: 낙, Hanja: 樂, CodePoint: U+F914 | http://hanja.naver.com/hanja?q=樂&cp_code=0&sound_id=0 -> O
+hangul: 낙, Hanja: 洛, CodePoint: U+F915 | http://hanja.naver.com/hanja?q=洛&cp_code=0&sound_id=0 -> O
+hangul: 낙, Hanja: 烙, CodePoint: U+F916 | http://hanja.naver.com/hanja?q=烙&cp_code=0&sound_id=0 -> O
+hangul: 낙, Hanja: 珞, CodePoint: U+F917 | http://hanja.naver.com/hanja?q=珞&cp_code=0&sound_id=0 -> O
+hangul: 낙, Hanja: 落, CodePoint: U+F918 | http://hanja.naver.com/hanja?q=落&cp_code=0&sound_id=0 -> O
+hangul: 낙, Hanja: 酪, CodePoint: U+F919 | http://hanja.naver.com/hanja?q=酪&cp_code=0&sound_id=0 -> O
+hangul: 낙, Hanja: 駱, CodePoint: U+F91A | http://hanja.naver.com/hanja?q=駱&cp_code=0&sound_id=0 -> O
+hangul: 낙, Hanja: 嗠, CodePoint: U+55E0 | http://hanja.naver.com/hanja?q=嗠&cp_code=0&sound_id=0 -> O
+hangul: 난, Hanja: 亂, CodePoint: U+F91B | http://hanja.naver.com/hanja?q=亂&cp_code=0&sound_id=0 -> O
+hangul: 난, Hanja: 卵, CodePoint: U+F91C | http://hanja.naver.com/hanja?q=卵&cp_code=0&sound_id=0 -> O
+hangul: 난, Hanja: 欄, CodePoint: U+F91D | http://hanja.naver.com/hanja?q=欄&cp_code=0&sound_id=0 -> O
+hangul: 난, Hanja: 爛, CodePoint: U+F91E | http://hanja.naver.com/hanja?q=爛&cp_code=0&sound_id=0 -> O
+hangul: 난, Hanja: 蘭, CodePoint: U+F91F | http://hanja.naver.com/hanja?q=蘭&cp_code=0&sound_id=0 -> O
+hangul: 난, Hanja: 鸞, CodePoint: U+F920 | http://hanja.naver.com/hanja?q=鸞&cp_code=0&sound_id=0 -> O
+hangul: 남, Hanja: 嵐, CodePoint: U+F921 | http://hanja.naver.com/hanja?q=嵐&cp_code=0&sound_id=0 -> O
+hangul: 남, Hanja: 濫, CodePoint: U+F922 | http://hanja.naver.com/hanja?q=濫&cp_code=0&sound_id=0 -> O
+hangul: 남, Hanja: 藍, CodePoint: U+F923 | http://hanja.naver.com/hanja?q=藍&cp_code=0&sound_id=0 -> O
+hangul: 남, Hanja: 襤, CodePoint: U+F924 | http://hanja.naver.com/hanja?q=襤&cp_code=0&sound_id=0 -> O
+hangul: 남, Hanja: 惏, CodePoint: U+60CF | http://hanja.naver.com/hanja?q=惏&cp_code=0&sound_id=0 -> O
+hangul: 남, Hanja: 弇, CodePoint: U+5F07 | http://hanja.naver.com/hanja?q=弇&cp_code=0&sound_id=0 -> O
+hangul: 납, Hanja: 拉, CodePoint: U+F925 | http://hanja.naver.com/hanja?q=拉&cp_code=0&sound_id=0 -> O
+hangul: 납, Hanja: 臘, CodePoint: U+F926 | http://hanja.naver.com/hanja?q=臘&cp_code=0&sound_id=0 -> O
+hangul: 납, Hanja: 蠟, CodePoint: U+F927 | http://hanja.naver.com/hanja?q=蠟&cp_code=0&sound_id=0 -> O
+hangul: 낭, Hanja: 廊, CodePoint: U+F928 | http://hanja.naver.com/hanja?q=廊&cp_code=0&sound_id=0 -> O
+hangul: 낭, Hanja: 朗, CodePoint: U+F929 | http://hanja.naver.com/hanja?q=朗&cp_code=0&sound_id=0 -> O
+hangul: 낭, Hanja: 浪, CodePoint: U+F92A | http://hanja.naver.com/hanja?q=浪&cp_code=0&sound_id=0 -> O
+hangul: 낭, Hanja: 狼, CodePoint: U+F92B | http://hanja.naver.com/hanja?q=狼&cp_code=0&sound_id=0 -> O
+hangul: 낭, Hanja: 郎, CodePoint: U+F92C | http://hanja.naver.com/hanja?q=郎&cp_code=0&sound_id=0 -> O
+hangul: 내, Hanja: 來, CodePoint: U+F92D | http://hanja.naver.com/hanja?q=來&cp_code=0&sound_id=0 -> O
+hangul: 내, Hanja: 黧, CodePoint: U+9EE7 | http://hanja.naver.com/hanja?q=黧&cp_code=0&sound_id=0 -> O
+hangul: 냉, Hanja: 冷, CodePoint: U+F92E | http://hanja.naver.com/hanja?q=冷&cp_code=0&sound_id=0 -> O
+hangul: 노, Hanja: 勞, CodePoint: U+F92F | http://hanja.naver.com/hanja?q=勞&cp_code=0&sound_id=0 -> O
+hangul: 노, Hanja: 擄, CodePoint: U+F930 | http://hanja.naver.com/hanja?q=擄&cp_code=0&sound_id=0 -> O
+hangul: 노, Hanja: 櫓, CodePoint: U+F931 | http://hanja.naver.com/hanja?q=櫓&cp_code=0&sound_id=0 -> O
+hangul: 노, Hanja: 爐, CodePoint: U+F932 | http://hanja.naver.com/hanja?q=爐&cp_code=0&sound_id=0 -> O
+hangul: 노, Hanja: 盧, CodePoint: U+F933 | http://hanja.naver.com/hanja?q=盧&cp_code=0&sound_id=0 -> O
+hangul: 노, Hanja: 老, CodePoint: U+F934 | http://hanja.naver.com/hanja?q=老&cp_code=0&sound_id=0 -> O
+hangul: 노, Hanja: 蘆, CodePoint: U+F935 | http://hanja.naver.com/hanja?q=蘆&cp_code=0&sound_id=0 -> O
+hangul: 노, Hanja: 虜, CodePoint: U+F936 | http://hanja.naver.com/hanja?q=虜&cp_code=0&sound_id=0 -> O
+hangul: 노, Hanja: 路, CodePoint: U+F937 | http://hanja.naver.com/hanja?q=路&cp_code=0&sound_id=0 -> O
+hangul: 노, Hanja: 露, CodePoint: U+F938 | http://hanja.naver.com/hanja?q=露&cp_code=0&sound_id=0 -> O
+hangul: 노, Hanja: 魯, CodePoint: U+F939 | http://hanja.naver.com/hanja?q=魯&cp_code=0&sound_id=0 -> O
+hangul: 노, Hanja: 鷺, CodePoint: U+F93A | http://hanja.naver.com/hanja?q=鷺&cp_code=0&sound_id=0 -> O
+hangul: 노, Hanja: 嘮, CodePoint: U+562E | http://hanja.naver.com/hanja?q=嘮&cp_code=0&sound_id=0 -> O
+hangul: 노, Hanja: 髗, CodePoint: U+9AD7 | http://hanja.naver.com/hanja?q=髗&cp_code=0&sound_id=0 -> O
+hangul: 녹, Hanja: 碌, CodePoint: U+F93B | http://hanja.naver.com/hanja?q=碌&cp_code=0&sound_id=0 -> O
+hangul: 녹, Hanja: 祿, CodePoint: U+F93C | http://hanja.naver.com/hanja?q=祿&cp_code=0&sound_id=0 -> O
+hangul: 녹, Hanja: 綠, CodePoint: U+F93D | http://hanja.naver.com/hanja?q=綠&cp_code=0&sound_id=0 -> O
+hangul: 녹, Hanja: 菉, CodePoint: U+F93E | http://hanja.naver.com/hanja?q=菉&cp_code=0&sound_id=0 -> O
+hangul: 녹, Hanja: 錄, CodePoint: U+F93F | http://hanja.naver.com/hanja?q=錄&cp_code=0&sound_id=0 -> O
+hangul: 녹, Hanja: 鹿, CodePoint: U+F940 | http://hanja.naver.com/hanja?q=鹿&cp_code=0&sound_id=0 -> O
+hangul: 논, Hanja: 論, CodePoint: U+F941 | http://hanja.naver.com/hanja?q=論&cp_code=0&sound_id=0 -> O
+hangul: 농, Hanja: 壟, CodePoint: U+F942 | http://hanja.naver.com/hanja?q=壟&cp_code=0&sound_id=0 -> O
+hangul: 농, Hanja: 弄, CodePoint: U+F943 | http://hanja.naver.com/hanja?q=弄&cp_code=0&sound_id=0 -> O
+hangul: 농, Hanja: 籠, CodePoint: U+F944 | http://hanja.naver.com/hanja?q=籠&cp_code=0&sound_id=0 -> O
+hangul: 농, Hanja: 聾, CodePoint: U+F945 | http://hanja.naver.com/hanja?q=聾&cp_code=0&sound_id=0 -> O
+hangul: 농, Hanja: 龍, CodePoint: U+9F8D | http://hanja.naver.com/hanja?q=龍&cp_code=0&sound_id=0 -> O
+hangul: 농, Hanja: 竜, CodePoint: U+7ADC | http://hanja.naver.com/hanja?q=竜&cp_code=0&sound_id=0 -> O
+hangul: 농, Hanja: 龒, CodePoint: U+9F92 | http://hanja.naver.com/hanja?q=龒&cp_code=0&sound_id=0 -> O
+hangul: 뇌, Hanja: 牢, CodePoint: U+F946 | http://hanja.naver.com/hanja?q=牢&cp_code=0&sound_id=0 -> O
+hangul: 뇌, Hanja: 磊, CodePoint: U+F947 | http://hanja.naver.com/hanja?q=磊&cp_code=0&sound_id=0 -> O
+hangul: 뇌, Hanja: 賂, CodePoint: U+F948 | http://hanja.naver.com/hanja?q=賂&cp_code=0&sound_id=0 -> O
+hangul: 뇌, Hanja: 雷, CodePoint: U+F949 | http://hanja.naver.com/hanja?q=雷&cp_code=0&sound_id=0 -> O
+hangul: 뇌, Hanja: 攂, CodePoint: U+6502 | http://hanja.naver.com/hanja?q=攂&cp_code=0&sound_id=0 -> O
+hangul: 누, Hanja: 壘, CodePoint: U+F94A | http://hanja.naver.com/hanja?q=壘&cp_code=0&sound_id=0 -> O
+hangul: 누, Hanja: 屢, CodePoint: U+F94B | http://hanja.naver.com/hanja?q=屢&cp_code=0&sound_id=0 -> O
+hangul: 누, Hanja: 樓, CodePoint: U+F94C | http://hanja.naver.com/hanja?q=樓&cp_code=0&sound_id=0 -> O
+hangul: 누, Hanja: 淚, CodePoint: U+F94D | http://hanja.naver.com/hanja?q=淚&cp_code=0&sound_id=0 -> O
+hangul: 누, Hanja: 漏, CodePoint: U+F94E | http://hanja.naver.com/hanja?q=漏&cp_code=0&sound_id=0 -> O
+hangul: 누, Hanja: 累, CodePoint: U+F94F | http://hanja.naver.com/hanja?q=累&cp_code=0&sound_id=0 -> O
+hangul: 누, Hanja: 縷, CodePoint: U+F950 | http://hanja.naver.com/hanja?q=縷&cp_code=0&sound_id=0 -> O
+hangul: 누, Hanja: 陋, CodePoint: U+F951 | http://hanja.naver.com/hanja?q=陋&cp_code=0&sound_id=0 -> O
+hangul: 누, Hanja: 厽, CodePoint: U+53BD | http://hanja.naver.com/hanja?q=厽&cp_code=0&sound_id=0 -> O
+hangul: 늣, Hanja: 莻, CodePoint: U+83BB | http://hanja.naver.com/hanja?q=莻&cp_code=0&sound_id=0 -> O,"늦을 '늦'", '늣'
+hangul: 늑, Hanja: 勒, CodePoint: U+F952 | http://hanja.naver.com/hanja?q=勒&cp_code=0&sound_id=0 -> O
+hangul: 늑, Hanja: 肋, CodePoint: U+F953 | http://hanja.naver.com/hanja?q=肋&cp_code=0&sound_id=0 -> O
+hangul: 늠, Hanja: 凜, CodePoint: U+F954 | http://hanja.naver.com/hanja?q=凜&cp_code=0&sound_id=0 -> O
+hangul: 능, Hanja: 凌, CodePoint: U+F955 | http://hanja.naver.com/hanja?q=凌&cp_code=0&sound_id=0 -> O
+hangul: 능, Hanja: 稜, CodePoint: U+F956 | http://hanja.naver.com/hanja?q=稜&cp_code=0&sound_id=0 -> O
+hangul: 능, Hanja: 綾, CodePoint: U+F957 | http://hanja.naver.com/hanja?q=綾&cp_code=0&sound_id=0 -> O
+hangul: 능, Hanja: 菱, CodePoint: U+F958 | http://hanja.naver.com/hanja?q=菱&cp_code=0&sound_id=0 -> O
+hangul: 능, Hanja: 陵, CodePoint: U+F959 | http://hanja.naver.com/hanja?q=陵&cp_code=0&sound_id=0 -> O
+hangul: 단, Hanja: 剸, CodePoint: U+5278 | http://hanja.naver.com/hanja?q=剸&cp_code=0&sound_id=0 -> O
+hangul: 단, Hanja: 笪, CodePoint: U+7B2A | http://hanja.naver.com/hanja?q=笪&cp_code=0&sound_id=0 -> O
+hangul: 단, Hanja: 揣, CodePoint: U+63E3 | http://hanja.naver.com/hanja?q=揣&cp_code=0&sound_id=0 -> O
+hangul: 대, Hanja: 枱, CodePoint: U+67B1 | http://hanja.naver.com/hanja?q=枱&cp_code=0&sound_id=0 -> O
+hangul: 대, Hanja: 隸, CodePoint: U+96B8 | http://hanja.naver.com/hanja?q=隸&cp_code=0&sound_id=0 -> O
+hangul: 대, Hanja: 隷, CodePoint: U+96B7 | http://hanja.naver.com/hanja?q=隷&cp_code=0&sound_id=0 -> O
+hangul: 도, Hanja: 纛, CodePoint: U+7E9B | http://hanja.naver.com/hanja?q=纛&cp_code=0&sound_id=0 -> O
+hangul: 도, Hanja: 都, CodePoint: U+FA26 | http://hanja.naver.com/hanja?q=都&cp_code=0&sound_id=0 -> O
+hangul: 도, Hanja: 璹, CodePoint: U+74B9 | http://hanja.naver.com/hanja?q=璹&cp_code=0&sound_id=0 -> O
+hangul: 동, Hanja: 虫, CodePoint: U+866B | http://hanja.naver.com/hanja?q=虫&cp_code=0&sound_id=0 -> O
+hangul: 두, Hanja: 讀, CodePoint: U+F95A | http://hanja.naver.com/hanja?q=讀&cp_code=0&sound_id=0 -> O
+hangul: 둑, Hanja: 纛, CodePoint: U+7E9B | http://hanja.naver.com/hanja?q=纛&cp_code=0&sound_id=0 -> O
+hangul: 라, Hanja: 拏, CodePoint: U+F95B | http://hanja.naver.com/hanja?q=拏&cp_code=0&sound_id=0 -> O
+hangul: 락, Hanja: 樂, CodePoint: U+F95C | http://hanja.naver.com/hanja?q=樂&cp_code=0&sound_id=0 -> O
+hangul: 락, Hanja: 諾, CodePoint: U+F95D | http://hanja.naver.com/hanja?q=諾&cp_code=0&sound_id=0 -> O
+hangul: 락, Hanja: 攊, CodePoint: U+650A | http://hanja.naver.com/hanja?q=攊&cp_code=0&sound_id=0 -> O
+hangul: 란, Hanja: 丹, CodePoint: U+F95E | http://hanja.naver.com/hanja?q=丹&cp_code=0&sound_id=0 -> O
+hangul: 람, Hanja: 厱, CodePoint: U+53B1 | http://hanja.naver.com/hanja?q=厱&cp_code=0&sound_id=0 -> O
+hangul: 래, Hanja: 黧, CodePoint: U+9EE7 | http://hanja.naver.com/hanja?q=黧&cp_code=0&sound_id=0 -> O
+hangul: 려, Hanja: 戻, CodePoint: U+623B | http://hanja.naver.com/hanja?q=戻&cp_code=0&sound_id=0 -> O
+hangul: 렬, Hanja: 戻, CodePoint: U+623B | http://hanja.naver.com/hanja?q=戻&cp_code=0&sound_id=0 -> O
+hangul: 령, Hanja: 寧, CodePoint: U+F95F | http://hanja.naver.com/hanja?q=寧&cp_code=0&sound_id=0 -> O
+hangul: 례, Hanja: 礼, CodePoint: U+FA18 | http://hanja.naver.com/hanja?q=礼&cp_code=0&sound_id=0 -> O
+hangul: 로, Hanja: 怒, CodePoint: U+F960 | http://hanja.naver.com/hanja?q=怒&cp_code=0&sound_id=0 -> O
+hangul: 롱, Hanja: 龍, CodePoint: U+9F8D | http://hanja.naver.com/hanja?q=龍&cp_code=0&sound_id=0 -> O
+hangul: 롱, Hanja: 竜, CodePoint: U+7ADC | http://hanja.naver.com/hanja?q=竜&cp_code=0&sound_id=0 -> O
+hangul: 롱, Hanja: 龒, CodePoint: U+9F92 | http://hanja.naver.com/hanja?q=龒&cp_code=0&sound_id=0 -> O
+hangul: 률, Hanja: 率, CodePoint: U+F961 | http://hanja.naver.com/hanja?q=率&cp_code=0&sound_id=0 -> O
+hangul: 리, Hanja: 異, CodePoint: U+F962 | http://hanja.naver.com/hanja?q=異&cp_code=0&sound_id=0 -> O
+hangul: 리, Hanja: 麗, CodePoint: U+9E97 | http://hanja.naver.com/hanja?q=麗&cp_code=0&sound_id=0 -> O,다음 사전에선 "꾀꼬리 '리'"로 표기함 http://dic.daum.net/word/view.do?wordid=hhw000011920&supid=hhu000011923
+hangul: 리, Hanja: 黧, CodePoint: U+9EE7 | http://hanja.naver.com/hanja?q=黧&cp_code=0&sound_id=0 -> O
+hangul: 리, Hanja: 灑, CodePoint: U+7051 | http://hanja.naver.com/hanja?q=灑&cp_code=0&sound_id=0 -> O
+hangul: 림, Hanja: 滲, CodePoint: U+6EF2 | http://hanja.naver.com/hanja?q=滲&cp_code=0&sound_id=0 -> O
+hangul: 림, Hanja: 渗, CodePoint: U+6E17 | http://hanja.naver.com/hanja?q=渗&cp_code=0&sound_id=0 -> O
+hangul: 망, Hanja: 龍, CodePoint: U+9F8D | http://hanja.naver.com/hanja?q=龍&cp_code=0&sound_id=0 -> O
+hangul: 망, Hanja: 竜, CodePoint: U+7ADC | http://hanja.naver.com/hanja?q=竜&cp_code=0&sound_id=0 -> O
+hangul: 망, Hanja: 龒, CodePoint: U+9F92 | http://hanja.naver.com/hanja?q=龒&cp_code=0&sound_id=0 -> O
+hangul: 면, Hanja: 湣, CodePoint: U+6E63 | http://hanja.naver.com/hanja?q=湣&cp_code=0&sound_id=0 -> O
+hangul: 모, Hanja: 藐, CodePoint: U+85D0 | http://hanja.naver.com/hanja?q=藐&cp_code=0&sound_id=0 -> O
+hangul: 묘, Hanja: 吵, CodePoint: U+5435 | http://hanja.naver.com/hanja?q=吵&cp_code=0&sound_id=0 -> O
+hangul: 미, Hanja: 辟, CodePoint: U+8F9F | http://hanja.naver.com/hanja?q=辟&cp_code=0&sound_id=0 -> O
+hangul: 박, Hanja: 曝, CodePoint: U+66DD | http://hanja.naver.com/hanja?q=曝&cp_code=0&sound_id=0 -> O
+hangul: 반, Hanja: 飯, CodePoint: U+FA2A | http://hanja.naver.com/hanja?q=飯&cp_code=0&sound_id=0 -> O
+hangul: 반, Hanja: 乑, CodePoint: U+4E51 | http://hanja.naver.com/hanja?q=乑&cp_code=0&sound_id=0 -> O
+hangul: 밧, Hanja: 夞, CodePoint: U+591E | http://hanja.naver.com/hanja?q=夞&cp_code=0&sound_id=0 -> O
+hangul: 배, Hanja: 北, CodePoint: U+F963 | http://hanja.naver.com/hanja?q=北&cp_code=0&sound_id=0 -> O
+hangul: 번, Hanja: 磻, CodePoint: U+F964 | http://hanja.naver.com/hanja?q=磻&cp_code=0&sound_id=0 -> O
+hangul: 변, Hanja: 便, CodePoint: U+F965 | http://hanja.naver.com/hanja?q=便&cp_code=0&sound_id=0 -> O
+hangul: 병, Hanja: 拼, CodePoint: U+62FC | http://hanja.naver.com/hanja?q=拼&cp_code=0&sound_id=0 -> O
+hangul: 보, Hanja: 呆, CodePoint: U+5446 | http://hanja.naver.com/hanja?q=呆&cp_code=0&sound_id=0 -> O
+hangul: 복, Hanja: 樸, CodePoint: U+6A38 | http://hanja.naver.com/hanja?q=樸&cp_code=0&sound_id=0 -> O
+hangul: 복, Hanja: 福, CodePoint: U+FA1B | http://hanja.naver.com/hanja?q=福&cp_code=0&sound_id=0 -> O
+hangul: 복, Hanja: 踣, CodePoint: U+8E23 | http://hanja.naver.com/hanja?q=踣&cp_code=0&sound_id=0 -> O
+hangul: 복, Hanja: 復, CodePoint: U+F966 | http://hanja.naver.com/hanja?q=復&cp_code=0&sound_id=0 -> O
+hangul: 봉, Hanja: 鬅, CodePoint: U+9B05 | http://hanja.naver.com/hanja?q=鬅&cp_code=0&sound_id=0 -> O
+hangul: 부, Hanja: 復, CodePoint: U+F966 | http://hanja.naver.com/hanja?q=復&cp_code=0&sound_id=0 -> O
+hangul: 부, Hanja: 踣, CodePoint: U+8E23 | http://hanja.naver.com/hanja?q=踣&cp_code=0&sound_id=0 -> O
+hangul: 부, Hanja: 福, CodePoint: U+FA1B | http://hanja.naver.com/hanja?q=福&cp_code=0&sound_id=0 -> O
+hangul: 비, Hanja: 泌, CodePoint: U+F968 | http://hanja.naver.com/hanja?q=泌&cp_code=0&sound_id=0 -> O
+hangul: 비, Hanja: 辟, CodePoint: U+8F9F | http://hanja.naver.com/hanja?q=辟&cp_code=0&sound_id=0 -> O
+hangul: 빙, Hanja: 葑, CodePoint: U+8451 | http://hanja.naver.com/hanja?q=葑&cp_code=0&sound_id=0 -> O
+hangul: 뼘, Hanja: 乀, CodePoint: U+4E40 | http://hanja.naver.com/hanja?q=乀&cp_code=0&sound_id=0 -> O
+hangul: 사, Hanja: 飼, CodePoint: U+FA2B | http://hanja.naver.com/hanja?q=飼&cp_code=0&sound_id=0 -> O
+hangul: 사, Hanja: 枱, CodePoint: U+67B1 | http://hanja.naver.com/hanja?q=枱&cp_code=0&sound_id=0 -> O
+hangul: 삭, Hanja: 數, CodePoint: U+F969 | http://hanja.naver.com/hanja?q=數&cp_code=0&sound_id=0 -> O
+hangul: 삭, Hanja: 索, CodePoint: U+F96A | http://hanja.naver.com/hanja?q=索&cp_code=0&sound_id=0 -> O
+hangul: 삼, Hanja: 參, CodePoint: U+F96B | http://hanja.naver.com/hanja?q=參&cp_code=0&sound_id=0 -> O
+hangul: 삼, Hanja: 叁, CodePoint: U+53C1 | http://hanja.naver.com/hanja?q=叁&cp_code=0&sound_id=0 -> O
+hangul: 삼, Hanja: 参, CodePoint: U+53C2 | http://hanja.naver.com/hanja?q=参&cp_code=0&sound_id=0 -> O
+hangul: 삼, Hanja: 鰺, CodePoint: U+9C3A | http://hanja.naver.com/hanja?q=鰺&cp_code=0&sound_id=0 -> O
+hangul: 삼, Hanja: 鐥, CodePoint: U+9425 | http://hanja.naver.com/hanja?q=鐥&cp_code=0&sound_id=0 -> O
+hangul: 상, Hanja: 儴, CodePoint: U+5134 | http://hanja.naver.com/hanja?q=儴&cp_code=0&sound_id=0 -> O
+hangul: 상, Hanja: 祥, CodePoint: U+FA1A | http://hanja.naver.com/hanja?q=祥&cp_code=0&sound_id=0 -> O
+hangul: 색, Hanja: 塞, CodePoint: U+F96C | http://hanja.naver.com/hanja?q=塞&cp_code=0&sound_id=0 -> O
+hangul: 생, Hanja: 省, CodePoint: U+F96D | http://hanja.naver.com/hanja?q=省&cp_code=0&sound_id=0 -> O
+hangul: 선, Hanja: 羡, CodePoint: U+7FA1 | http://hanja.naver.com/hanja?q=羡&cp_code=0&sound_id=0 -> O
+hangul: 선, Hanja: 亙, CodePoint: U+4E99 | http://hanja.naver.com/hanja?q=亙&cp_code=0&sound_id=0 -> O
+hangul: 섭, Hanja: 葉, CodePoint: U+F96E | http://hanja.naver.com/hanja?q=葉&cp_code=0&sound_id=0 -> O
+hangul: 성, Hanja: 垩, CodePoint: U+57A9 | http://hanja.naver.com/hanja?q=垩&cp_code=0&sound_id=0 -> O
+hangul: 세, Hanja: 說, CodePoint: U+F96F | http://hanja.naver.com/hanja?q=說&cp_code=0&sound_id=0 -> O
+hangul: 세, Hanja: 蜕, CodePoint: U+8715 | http://hanja.naver.com/hanja?q=蜕&cp_code=0&sound_id=0 -> O
+hangul: 소, Hanja: 厼, CodePoint: U+53BC | http://hanja.naver.com/hanja?q=厼&cp_code=0&sound_id=0 -> X,"구결자 '며', 너 '이'"
+hangul: 소, Hanja: 潚, CodePoint: U+6F5A | http://hanja.naver.com/hanja?q=潚&cp_code=0&sound_id=0 -> O,다음 사전에선 "강 이름 '소', 빠를 '축',깊고 맑을 '축'"으로 표기 http://dic.daum.net/word/view.do?wordid=hhw000005598&supid=hhu000005600
+hangul: 솔, Hanja: 卹, CodePoint: U+5379 | http://hanja.naver.com/hanja?q=卹&cp_code=0&sound_id=0 -> O
+hangul: 송, Hanja: 憃, CodePoint: U+6183 | http://hanja.naver.com/hanja?q=憃&cp_code=0&sound_id=0 -> O
+hangul: 쇄, Hanja: 殺, CodePoint: U+F970 | http://hanja.naver.com/hanja?q=殺&cp_code=0&sound_id=0 -> O
+hangul: 수, Hanja: 璹, CodePoint: U+74B9 | http://hanja.naver.com/hanja?q=璹&cp_code=0&sound_id=0 -> O
+hangul: 수, Hanja: 嘼, CodePoint: U+563C | http://hanja.naver.com/hanja?q=嘼&cp_code=0&sound_id=0 -> O
+hangul: 수, Hanja: 陏, CodePoint: U+964F | http://hanja.naver.com/hanja?q=陏&cp_code=0&sound_id=0 -> O
+hangul: 술, Hanja: 术, CodePoint: U+672F | http://hanja.naver.com/hanja?q=术&cp_code=0&sound_id=0 -> O
+hangul: 시, Hanja: 灑, CodePoint: U+7051 | http://hanja.naver.com/hanja?q=灑&cp_code=0&sound_id=0 -> O
+hangul: 신, Hanja: 辰, CodePoint: U+F971 | http://hanja.naver.com/hanja?q=辰&cp_code=0&sound_id=0 -> O
+hangul: 신, Hanja: 神, CodePoint: U+FA19 | http://hanja.naver.com/hanja?q=神&cp_code=0&sound_id=0 -> O
+hangul: 신, Hanja: 詵, CodePoint: U+8A75 | http://hanja.naver.com/hanja?q=詵&cp_code=0&sound_id=0 -> O
+hangul: 심, Hanja: 沈, CodePoint: U+F972 | http://hanja.naver.com/hanja?q=沈&cp_code=0&sound_id=0 -> O
+hangul: 십, Hanja: 拾, CodePoint: U+F973 | http://hanja.naver.com/hanja?q=拾&cp_code=0&sound_id=0 -> O
+hangul: 십, Hanja: 汁, CodePoint: U+6C41 | http://hanja.naver.com/hanja?q=汁&cp_code=0&sound_id=0 -> O
+hangul: 아, Hanja: 唲, CodePoint: U+5532 | http://hanja.naver.com/hanja?q=唲&cp_code=0&sound_id=0 -> O
+hangul: 악, Hanja: 嗌, CodePoint: U+55CC | http://hanja.naver.com/hanja?q=嗌&cp_code=0&sound_id=0 -> O
+hangul: 악, Hanja: 攊, CodePoint: U+650A | http://hanja.naver.com/hanja?q=攊&cp_code=0&sound_id=0 -> O
+hangul: 안, Hanja: 喭, CodePoint: U+55AD | http://hanja.naver.com/hanja?q=喭&cp_code=0&sound_id=0 -> O
+hangul: 알, Hanja: 按, CodePoint: U+6309 | http://hanja.naver.com/hanja?q=按&cp_code=0&sound_id=0 -> O
+hangul: 암, Hanja: 喑, CodePoint: U+5591 | http://hanja.naver.com/hanja?q=喑&cp_code=0&sound_id=0 -> O,다음 사전에선 "외칠 '암'"으로 표기 http://dic.daum.net/word/view.do?wordid=hhw000001146&supid=hhu000001146
+hangul: 압, Hanja: 匼, CodePoint: U+533C | http://hanja.naver.com/hanja?q=匼&cp_code=0&sound_id=0 -> O
+hangul: 애, Hanja: 嗌, CodePoint: U+55CC | http://hanja.naver.com/hanja?q=嗌&cp_code=0&sound_id=0 -> O
+hangul: 야, Hanja: 若, CodePoint: U+F974 | http://hanja.naver.com/hanja?q=若&cp_code=0&sound_id=0 -> O
+hangul: 약, Hanja: 掠, CodePoint: U+F975 | http://hanja.naver.com/hanja?q=掠&cp_code=0&sound_id=0 -> O
+hangul: 약, Hanja: 略, CodePoint: U+F976 | http://hanja.naver.com/hanja?q=略&cp_code=0&sound_id=0 -> O
+hangul: 약, Hanja: 攊, CodePoint: U+650A | http://hanja.naver.com/hanja?q=攊&cp_code=0&sound_id=0 -> O
+hangul: 양, Hanja: 亮, CodePoint: U+F977 | http://hanja.naver.com/hanja?q=亮&cp_code=0&sound_id=0 -> O
+hangul: 양, Hanja: 兩, CodePoint: U+F978 | http://hanja.naver.com/hanja?q=兩&cp_code=0&sound_id=0 -> O
+hangul: 양, Hanja: 凉, CodePoint: U+F979 | http://hanja.naver.com/hanja?q=凉&cp_code=0&sound_id=0 -> O
+hangul: 양, Hanja: 梁, CodePoint: U+F97A | http://hanja.naver.com/hanja?q=梁&cp_code=0&sound_id=0 -> O
+hangul: 양, Hanja: 糧, CodePoint: U+F97B | http://hanja.naver.com/hanja?q=糧&cp_code=0&sound_id=0 -> O
+hangul: 양, Hanja: 良, CodePoint: U+F97C | http://hanja.naver.com/hanja?q=良&cp_code=0&sound_id=0 -> O
+hangul: 양, Hanja: 諒, CodePoint: U+F97D | http://hanja.naver.com/hanja?q=諒&cp_code=0&sound_id=0 -> O
+hangul: 양, Hanja: 量, CodePoint: U+F97E | http://hanja.naver.com/hanja?q=量&cp_code=0&sound_id=0 -> O
+hangul: 양, Hanja: 儴, CodePoint: U+5134 | http://hanja.naver.com/hanja?q=儴&cp_code=0&sound_id=0 -> O
+hangul: 어, Hanja: 閼, CodePoint: U+95BC | http://hanja.naver.com/hanja?q=閼&cp_code=0&sound_id=0 -> O
+hangul: 얼, Hanja: 噦, CodePoint: U+5666 | http://hanja.naver.com/hanja?q=噦&cp_code=0&sound_id=0 -> O
+hangul: 얼, Hanja: 讞, CodePoint: U+8B9E | http://hanja.naver.com/hanja?q=讞&cp_code=0&sound_id=0 -> O
+hangul: 엄, Hanja: 厱, CodePoint: U+53B1 | http://hanja.naver.com/hanja?q=厱&cp_code=0&sound_id=0 -> O
+hangul: 엄, Hanja: 吅, CodePoint: U+5405 | http://hanja.naver.com/hanja?q=吅&cp_code=0&sound_id=0 -> O
+hangul: 여, Hanja: 勵, CodePoint: U+F97F | http://hanja.naver.com/hanja?q=勵&cp_code=0&sound_id=0 -> O
+hangul: 여, Hanja: 呂, CodePoint: U+F980 | http://hanja.naver.com/hanja?q=呂&cp_code=0&sound_id=0 -> O
+hangul: 여, Hanja: 女, CodePoint: U+F981 | http://hanja.naver.com/hanja?q=女&cp_code=0&sound_id=0 -> O
+hangul: 여, Hanja: 廬, CodePoint: U+F982 | http://hanja.naver.com/hanja?q=廬&cp_code=0&sound_id=0 -> O
+hangul: 여, Hanja: 旅, CodePoint: U+F983 | http://hanja.naver.com/hanja?q=旅&cp_code=0&sound_id=0 -> O
+hangul: 여, Hanja: 濾, CodePoint: U+F984 | http://hanja.naver.com/hanja?q=濾&cp_code=0&sound_id=0 -> O
+hangul: 여, Hanja: 礪, CodePoint: U+F985 | http://hanja.naver.com/hanja?q=礪&cp_code=0&sound_id=0 -> O
+hangul: 여, Hanja: 閭, CodePoint: U+F986 | http://hanja.naver.com/hanja?q=閭&cp_code=0&sound_id=0 -> O
+hangul: 여, Hanja: 驪, CodePoint: U+F987 | http://hanja.naver.com/hanja?q=驪&cp_code=0&sound_id=0 -> O
+hangul: 여, Hanja: 麗, CodePoint: U+F988 | http://hanja.naver.com/hanja?q=麗&cp_code=0&sound_id=0 -> O
+hangul: 여, Hanja: 黎, CodePoint: U+F989 | http://hanja.naver.com/hanja?q=黎&cp_code=0&sound_id=0 -> O
+hangul: 여, Hanja: 黧, CodePoint: U+9EE7 | http://hanja.naver.com/hanja?q=黧&cp_code=0&sound_id=0 -> O
+hangul: 여, Hanja: 邌, CodePoint: U+908C | http://hanja.naver.com/hanja?q=邌&cp_code=0&sound_id=0 -> O
+hangul: 여, Hanja: 戻, CodePoint: U+623B | http://hanja.naver.com/hanja?q=戻&cp_code=0&sound_id=0 -> O
+hangul: 역, Hanja: 力, CodePoint: U+F98A | http://hanja.naver.com/hanja?q=力&cp_code=0&sound_id=0 -> O
+hangul: 역, Hanja: 曆, CodePoint: U+F98B | http://hanja.naver.com/hanja?q=曆&cp_code=0&sound_id=0 -> O
+hangul: 역, Hanja: 歷, CodePoint: U+F98C | http://hanja.naver.com/hanja?q=歷&cp_code=0&sound_id=0 -> O
+hangul: 역, Hanja: 轢, CodePoint: U+F98D | http://hanja.naver.com/hanja?q=轢&cp_code=0&sound_id=0 -> O
+hangul: 역, Hanja: 攊, CodePoint: U+650A | http://hanja.naver.com/hanja?q=攊&cp_code=0&sound_id=0 -> O
+hangul: 연, Hanja: 年, CodePoint: U+F98E | http://hanja.naver.com/hanja?q=年&cp_code=0&sound_id=0 -> O
+hangul: 연, Hanja: 憐, CodePoint: U+F98F | http://hanja.naver.com/hanja?q=憐&cp_code=0&sound_id=0 -> O
+hangul: 연, Hanja: 戀, CodePoint: U+F990 | http://hanja.naver.com/hanja?q=戀&cp_code=0&sound_id=0 -> O
+hangul: 연, Hanja: 撚, CodePoint: U+F991 | http://hanja.naver.com/hanja?q=撚&cp_code=0&sound_id=0 -> O
+hangul: 연, Hanja: 漣, CodePoint: U+F992 | http://hanja.naver.com/hanja?q=漣&cp_code=0&sound_id=0 -> O
+hangul: 연, Hanja: 煉, CodePoint: U+F993 | http://hanja.naver.com/hanja?q=煉&cp_code=0&sound_id=0 -> O
+hangul: 연, Hanja: 璉, CodePoint: U+F994 | http://hanja.naver.com/hanja?q=璉&cp_code=0&sound_id=0 -> O
+hangul: 연, Hanja: 秊, CodePoint: U+F995 | http://hanja.naver.com/hanja?q=秊&cp_code=0&sound_id=0 -> O
+hangul: 연, Hanja: 練, CodePoint: U+F996 | http://hanja.naver.com/hanja?q=練&cp_code=0&sound_id=0 -> O
+hangul: 연, Hanja: 聯, CodePoint: U+F997 | http://hanja.naver.com/hanja?q=聯&cp_code=0&sound_id=0 -> O
+hangul: 연, Hanja: 輦, CodePoint: U+F998 | http://hanja.naver.com/hanja?q=輦&cp_code=0&sound_id=0 -> O
+hangul: 연, Hanja: 蓮, CodePoint: U+F999 | http://hanja.naver.com/hanja?q=蓮&cp_code=0&sound_id=0 -> O
+hangul: 연, Hanja: 連, CodePoint: U+F99A | http://hanja.naver.com/hanja?q=連&cp_code=0&sound_id=0 -> O
+hangul: 연, Hanja: 鍊, CodePoint: U+F99B | http://hanja.naver.com/hanja?q=鍊&cp_code=0&sound_id=0 -> O
+hangul: 연, Hanja: 唌, CodePoint: U+550C | http://hanja.naver.com/hanja?q=唌&cp_code=0&sound_id=0 -> O
+hangul: 연, Hanja: 閼, CodePoint: U+95BC | http://hanja.naver.com/hanja?q=閼&cp_code=0&sound_id=0 -> O
+hangul: 연, Hanja: 孿, CodePoint: U+5B7F | http://hanja.naver.com/hanja?q=孿&cp_code=0&sound_id=0 -> O
+hangul: 연, Hanja: 熯, CodePoint: U+71AF | http://hanja.naver.com/hanja?q=熯&cp_code=0&sound_id=0 -> O
+hangul: 연, Hanja: 羨, CodePoint: U+7FA8 | http://hanja.naver.com/hanja?q=羨&cp_code=0&sound_id=0 -> O
+hangul: 열, Hanja: 列, CodePoint: U+F99C | http://hanja.naver.com/hanja?q=列&cp_code=0&sound_id=0 -> O
+hangul: 열, Hanja: 劣, CodePoint: U+F99D | http://hanja.naver.com/hanja?q=劣&cp_code=0&sound_id=0 -> O
+hangul: 열, Hanja: 咽, CodePoint: U+F99E | http://hanja.naver.com/hanja?q=咽&cp_code=0&sound_id=0 -> O
+hangul: 열, Hanja: 烈, CodePoint: U+F99F | http://hanja.naver.com/hanja?q=烈&cp_code=0&sound_id=0 -> O
+hangul: 열, Hanja: 裂, CodePoint: U+F9A0 | http://hanja.naver.com/hanja?q=裂&cp_code=0&sound_id=0 -> O
+hangul: 열, Hanja: 說, CodePoint: U+F9A1 | http://hanja.naver.com/hanja?q=說&cp_code=0&sound_id=0 -> O
+hangul: 열, Hanja: 挒, CodePoint: U+6312 | http://hanja.naver.com/hanja?q=挒&cp_code=0&sound_id=0 -> O
+hangul: 열, Hanja: 戻, CodePoint: U+623B | http://hanja.naver.com/hanja?q=戻&cp_code=0&sound_id=0 -> O
+hangul: 염, Hanja: 廉, CodePoint: U+F9A2 | http://hanja.naver.com/hanja?q=廉&cp_code=0&sound_id=0 -> O
+hangul: 염, Hanja: 念, CodePoint: U+F9A3 | http://hanja.naver.com/hanja?q=念&cp_code=0&sound_id=0 -> O
+hangul: 염, Hanja: 捻, CodePoint: U+F9A4 | http://hanja.naver.com/hanja?q=捻&cp_code=0&sound_id=0 -> O
+hangul: 염, Hanja: 殮, CodePoint: U+F9A5 | http://hanja.naver.com/hanja?q=殮&cp_code=0&sound_id=0 -> O
+hangul: 염, Hanja: 簾, CodePoint: U+F9A6 | http://hanja.naver.com/hanja?q=簾&cp_code=0&sound_id=0 -> O
+hangul: 염, Hanja: 歛, CodePoint: U+6B5B | http://hanja.naver.com/hanja?q=歛&cp_code=0&sound_id=0 -> O
+hangul: 엽, Hanja: 獵, CodePoint: U+F9A7 | http://hanja.naver.com/hanja?q=獵&cp_code=0&sound_id=0 -> O
+hangul: 엽, Hanja: 喦, CodePoint: U+55A6 | http://hanja.naver.com/hanja?q=喦&cp_code=0&sound_id=0 -> O
+hangul: 영, Hanja: 令, CodePoint: U+F9A8 | http://hanja.naver.com/hanja?q=令&cp_code=0&sound_id=0 -> O
+hangul: 영, Hanja: 囹, CodePoint: U+F9A9 | http://hanja.naver.com/hanja?q=囹&cp_code=0&sound_id=0 -> O
+hangul: 영, Hanja: 寧, CodePoint: U+F9AA | http://hanja.naver.com/hanja?q=寧&cp_code=0&sound_id=0 -> O
+hangul: 영, Hanja: 嶺, CodePoint: U+F9AB | http://hanja.naver.com/hanja?q=嶺&cp_code=0&sound_id=0 -> O
+hangul: 영, Hanja: 怜, CodePoint: U+F9AC | http://hanja.naver.com/hanja?q=怜&cp_code=0&sound_id=0 -> O
+hangul: 영, Hanja: 玲, CodePoint: U+F9AD | http://hanja.naver.com/hanja?q=玲&cp_code=0&sound_id=0 -> O
+hangul: 영, Hanja: 瑩, CodePoint: U+F9AE | http://hanja.naver.com/hanja?q=瑩&cp_code=0&sound_id=0 -> O
+hangul: 영, Hanja: 羚, CodePoint: U+F9AF | http://hanja.naver.com/hanja?q=羚&cp_code=0&sound_id=0 -> O
+hangul: 영, Hanja: 聆, CodePoint: U+F9B0 | http://hanja.naver.com/hanja?q=聆&cp_code=0&sound_id=0 -> O
+hangul: 영, Hanja: 鈴, CodePoint: U+F9B1 | http://hanja.naver.com/hanja?q=鈴&cp_code=0&sound_id=0 -> O
+hangul: 영, Hanja: 零, CodePoint: U+F9B2 | http://hanja.naver.com/hanja?q=零&cp_code=0&sound_id=0 -> O
+hangul: 영, Hanja: 靈, CodePoint: U+F9B3 | http://hanja.naver.com/hanja?q=靈&cp_code=0&sound_id=0 -> O
+hangul: 영, Hanja: 領, CodePoint: U+F9B4 | http://hanja.naver.com/hanja?q=領&cp_code=0&sound_id=0 -> O
+hangul: 예, Hanja: 例, CodePoint: U+F9B5 | http://hanja.naver.com/hanja?q=例&cp_code=0&sound_id=0 -> O
+hangul: 예, Hanja: 禮, CodePoint: U+F9B6 | http://hanja.naver.com/hanja?q=禮&cp_code=0&sound_id=0 -> O
+hangul: 예, Hanja: 醴, CodePoint: U+F9B7 | http://hanja.naver.com/hanja?q=醴&cp_code=0&sound_id=0 -> O
+hangul: 예, Hanja: 隸, CodePoint: U+F9B8 | http://hanja.naver.com/hanja?q=隸&cp_code=0&sound_id=0 -> O
+hangul: 예, Hanja: 医, CodePoint: U+533B | http://hanja.naver.com/hanja?q=医&cp_code=0&sound_id=0 -> O
+hangul: 예, Hanja: 澧, CodePoint: U+6FA7 | http://hanja.naver.com/hanja?q=澧&cp_code=0&sound_id=0 -> O
+hangul: 예, Hanja: 豊, CodePoint: U+8C4A | http://hanja.naver.com/hanja?q=豊&cp_code=0&sound_id=0 -> O
+hangul: 예, Hanja: 鱧, CodePoint: U+9C67 | http://hanja.naver.com/hanja?q=鱧&cp_code=0&sound_id=0 -> O
+hangul: 예, Hanja: 礼, CodePoint: U+793C | http://hanja.naver.com/hanja?q=礼&cp_code=0&sound_id=0 -> O
+hangul: 예, Hanja: 礼, CodePoint: U+FA18 | http://hanja.naver.com/hanja?q=礼&cp_code=0&sound_id=0 -> O
+hangul: 예, Hanja: 禰, CodePoint: U+79B0 | http://hanja.naver.com/hanja?q=禰&cp_code=0&sound_id=0 -> O
+hangul: 오, Hanja: 惡, CodePoint: U+F9B9 | http://hanja.naver.com/hanja?q=惡&cp_code=0&sound_id=0 -> O
+hangul: 오, Hanja: 迂, CodePoint: U+8FC2 | http://hanja.naver.com/hanja?q=迂&cp_code=0&sound_id=0 -> O
+hangul: 온, Hanja: 穏, CodePoint: U+7A4F | http://hanja.naver.com/hanja?q=穏&cp_code=0&sound_id=0 -> O
+hangul: 올, Hanja: 兀, CodePoint: U+FA0C | http://hanja.naver.com/hanja?q=兀&cp_code=0&sound_id=0 -> O
+hangul: 와, Hanja: 倭, CodePoint: U+502D | http://hanja.naver.com/hanja?q=倭&cp_code=0&sound_id=0 -> O
+hangul: 왕, Hanja: 迋, CodePoint: U+8FCB | http://hanja.naver.com/hanja?q=迋&cp_code=0&sound_id=0 -> O
+hangul: 왜, Hanja: 矮, CodePoint: U+77EE | http://hanja.naver.com/hanja?q=矮&cp_code=0&sound_id=0 -> O
+hangul: 요, Hanja: 了, CodePoint: U+F9BA | http://hanja.naver.com/hanja?q=了&cp_code=0&sound_id=0 -> O
+hangul: 요, Hanja: 僚, CodePoint: U+F9BB | http://hanja.naver.com/hanja?q=僚&cp_code=0&sound_id=0 -> O
+hangul: 요, Hanja: 寮, CodePoint: U+F9BC | http://hanja.naver.com/hanja?q=寮&cp_code=0&sound_id=0 -> O
+hangul: 요, Hanja: 尿, CodePoint: U+F9BD | http://hanja.naver.com/hanja?q=尿&cp_code=0&sound_id=0 -> O
+hangul: 요, Hanja: 料, CodePoint: U+F9BE | http://hanja.naver.com/hanja?q=料&cp_code=0&sound_id=0 -> O
+hangul: 요, Hanja: 樂, CodePoint: U+F9BF | http://hanja.naver.com/hanja?q=樂&cp_code=0&sound_id=0 -> O
+hangul: 요, Hanja: 燎, CodePoint: U+F9C0 | http://hanja.naver.com/hanja?q=燎&cp_code=0&sound_id=0 -> O
+hangul: 요, Hanja: 療, CodePoint: U+F9C1 | http://hanja.naver.com/hanja?q=療&cp_code=0&sound_id=0 -> O
+hangul: 요, Hanja: 蓼, CodePoint: U+F9C2 | http://hanja.naver.com/hanja?q=蓼&cp_code=0&sound_id=0 -> O
+hangul: 요, Hanja: 遼, CodePoint: U+F9C3 | http://hanja.naver.com/hanja?q=遼&cp_code=0&sound_id=0 -> O
+hangul: 용, Hanja: 龍, CodePoint: U+F9C4 | http://hanja.naver.com/hanja?q=龍&cp_code=0&sound_id=0 -> O
+hangul: 용, Hanja: 竜, CodePoint: U+7ADC | http://hanja.naver.com/hanja?q=竜&cp_code=0&sound_id=0 -> O
+hangul: 용, Hanja: 龒, CodePoint: U+9F92 | http://hanja.naver.com/hanja?q=龒&cp_code=0&sound_id=0 -> O
+hangul: 우, Hanja: 羽, CodePoint: U+FA1E | http://hanja.naver.com/hanja?q=羽&cp_code=0&sound_id=0 -> O
+hangul: 우, Hanja: 噢, CodePoint: U+5662 | http://hanja.naver.com/hanja?q=噢&cp_code=0&sound_id=0 -> O
+hangul: 우, Hanja: 惢, CodePoint: U+60E2 | http://hanja.naver.com/hanja?q=惢&cp_code=0&sound_id=0 -> O
+hangul: 욱, Hanja: 噢, CodePoint: U+5662 | http://hanja.naver.com/hanja?q=噢&cp_code=0&sound_id=0 -> O
+hangul: 운, Hanja: 暈, CodePoint: U+F9C5 | http://hanja.naver.com/hanja?q=暈&cp_code=0&sound_id=0 -> O
+hangul: 원, Hanja: 阮, CodePoint: U+F9C6 | http://hanja.naver.com/hanja?q=阮&cp_code=0&sound_id=0 -> O
+hangul: 원, Hanja: 楦, CodePoint: U+6966 | http://hanja.naver.com/hanja?q=楦&cp_code=0&sound_id=0 -> O
+hangul: 원, Hanja: 园, CodePoint: U+56ED | http://hanja.naver.com/hanja?q=园&cp_code=0&sound_id=0 -> O
+hangul: 위, Hanja: 厃, CodePoint: U+5383 | http://hanja.naver.com/hanja?q=厃&cp_code=0&sound_id=0 -> O
+hangul: 위, Hanja: 嘳, CodePoint: U+5633 | http://hanja.naver.com/hanja?q=嘳&cp_code=0&sound_id=0 -> O
+hangul: 유, Hanja: 劉, CodePoint: U+F9C7 | http://hanja.naver.com/hanja?q=劉&cp_code=0&sound_id=0 -> O
+hangul: 유, Hanja: 杻, CodePoint: U+F9C8 | http://hanja.naver.com/hanja?q=杻&cp_code=0&sound_id=0 -> O
+hangul: 유, Hanja: 柳, CodePoint: U+F9C9 | http://hanja.naver.com/hanja?q=柳&cp_code=0&sound_id=0 -> O
+hangul: 유, Hanja: 流, CodePoint: U+F9CA | http://hanja.naver.com/hanja?q=流&cp_code=0&sound_id=0 -> O
+hangul: 유, Hanja: 溜, CodePoint: U+F9CB | http://hanja.naver.com/hanja?q=溜&cp_code=0&sound_id=0 -> O
+hangul: 유, Hanja: 琉, CodePoint: U+F9CC | http://hanja.naver.com/hanja?q=琉&cp_code=0&sound_id=0 -> O
+hangul: 유, Hanja: 留, CodePoint: U+F9CD | http://hanja.naver.com/hanja?q=留&cp_code=0&sound_id=0 -> O
+hangul: 유, Hanja: 硫, CodePoint: U+F9CE | http://hanja.naver.com/hanja?q=硫&cp_code=0&sound_id=0 -> O
+hangul: 유, Hanja: 紐, CodePoint: U+F9CF | http://hanja.naver.com/hanja?q=紐&cp_code=0&sound_id=0 -> O 
+hangul: 유, Hanja: 類, CodePoint: U+F9D0 | http://hanja.naver.com/hanja?q=類&cp_code=0&sound_id=0 -> O 
+hangul: 유, Hanja: 吁, CodePoint: U+5401 | http://hanja.naver.com/hanja?q=吁&cp_code=0&sound_id=0 -> O
+hangul: 유, Hanja: 橊, CodePoint: U+6A4A | http://hanja.naver.com/hanja?q=橊&cp_code=0&sound_id=0 -> O
+hangul: 유, Hanja: 靵, CodePoint: U+9775 | http://hanja.naver.com/hanja?q=靵&cp_code=0&sound_id=0 -> O
+hangul: 육, Hanja: 六, CodePoint: U+F9D1 | http://hanja.naver.com/hanja?q=六&cp_code=0&sound_id=0 -> O
+hangul: 육, Hanja: 戮, CodePoint: U+F9D2 | http://hanja.naver.com/hanja?q=戮&cp_code=0&sound_id=0 -> O
+hangul: 육, Hanja: 陸, CodePoint: U+F9D3 | http://hanja.naver.com/hanja?q=陸&cp_code=0&sound_id=0 -> O
+hangul: 육, Hanja: 勠, CodePoint: U+52E0 | http://hanja.naver.com/hanja?q=勠&cp_code=0&sound_id=0 -> O
+hangul: 윤, Hanja: 倫, CodePoint: U+F9D4 | http://hanja.naver.com/hanja?q=倫&cp_code=0&sound_id=0 -> O
+hangul: 윤, Hanja: 崙, CodePoint: U+F9D5 | http://hanja.naver.com/hanja?q=崙&cp_code=0&sound_id=0 -> O
+hangul: 윤, Hanja: 淪, CodePoint: U+F9D6 | http://hanja.naver.com/hanja?q=淪&cp_code=0&sound_id=0 -> O
+hangul: 윤, Hanja: 輪, CodePoint: U+F9D7 | http://hanja.naver.com/hanja?q=輪&cp_code=0&sound_id=0 -> O
+hangul: 율, Hanja: 律, CodePoint: U+F9D8 | http://hanja.naver.com/hanja?q=律&cp_code=0&sound_id=0 -> O
+hangul: 율, Hanja: 慄, CodePoint: U+F9D9 | http://hanja.naver.com/hanja?q=慄&cp_code=0&sound_id=0 -> O
+hangul: 율, Hanja: 栗, CodePoint: U+F9DA | http://hanja.naver.com/hanja?q=栗&cp_code=0&sound_id=0 -> O
+hangul: 율, Hanja: 率, CodePoint: U+F9DB | http://hanja.naver.com/hanja?q=率&cp_code=0&sound_id=0 -> O
+hangul: 율, Hanja: 凓, CodePoint: U+51D3 | http://hanja.naver.com/hanja?q=凓&cp_code=0&sound_id=0 -> O
+hangul: 융, Hanja: 隆, CodePoint: U+F9DC | http://hanja.naver.com/hanja?q=隆&cp_code=0&sound_id=0 -> O
+hangul: 은, Hanja: 眼, CodePoint: U+773C | http://hanja.naver.com/hanja?q=眼&cp_code=0&sound_id=0 -> O
+hangul: 이, Hanja: 利, CodePoint: U+F9DD | http://hanja.naver.com/hanja?q=利&cp_code=0&sound_id=0 -> O
+hangul: 이, Hanja: 吏, CodePoint: U+F9DE | http://hanja.naver.com/hanja?q=吏&cp_code=0&sound_id=0 -> O
+hangul: 이, Hanja: 履, CodePoint: U+F9DF | http://hanja.naver.com/hanja?q=履&cp_code=0&sound_id=0 -> O
+hangul: 이, Hanja: 易, CodePoint: U+F9E0 | http://hanja.naver.com/hanja?q=易&cp_code=0&sound_id=0 -> O
+hangul: 이, Hanja: 李, CodePoint: U+F9E1 | http://hanja.naver.com/hanja?q=李&cp_code=0&sound_id=0 -> O
+hangul: 이, Hanja: 梨, CodePoint: U+F9E2 | http://hanja.naver.com/hanja?q=梨&cp_code=0&sound_id=0 -> O
+hangul: 이, Hanja: 泥, CodePoint: U+F9E3 | http://hanja.naver.com/hanja?q=泥&cp_code=0&sound_id=0 -> O
+hangul: 이, Hanja: 理, CodePoint: U+F9E4 | http://hanja.naver.com/hanja?q=理&cp_code=0&sound_id=0 -> O
+hangul: 이, Hanja: 痢, CodePoint: U+F9E5 | http://hanja.naver.com/hanja?q=痢&cp_code=0&sound_id=0 -> O
+hangul: 이, Hanja: 罹, CodePoint: U+F9E6 | http://hanja.naver.com/hanja?q=罹&cp_code=0&sound_id=0 -> O
+hangul: 이, Hanja: 裏, CodePoint: U+F9E7 | http://hanja.naver.com/hanja?q=裏&cp_code=0&sound_id=0 -> O
+hangul: 이, Hanja: 裡, CodePoint: U+F9E8 | http://hanja.naver.com/hanja?q=裡&cp_code=0&sound_id=0 -> O
+hangul: 이, Hanja: 里, CodePoint: U+F9E9 | http://hanja.naver.com/hanja?q=里&cp_code=0&sound_id=0 -> O
+hangul: 이, Hanja: 離, CodePoint: U+F9EA | http://hanja.naver.com/hanja?q=離&cp_code=0&sound_id=0 -> O
+hangul: 이, Hanja: 阤, CodePoint: U+9624 | http://hanja.naver.com/hanja?q=阤&cp_code=0&sound_id=0 -> O
+hangul: 이, Hanja: 灑, CodePoint: U+7051 | http://hanja.naver.com/hanja?q=灑&cp_code=0&sound_id=0 -> O
+hangul: 이, Hanja: 黧, CodePoint: U+9EE7 | http://hanja.naver.com/hanja?q=黧&cp_code=0&sound_id=0 -> O
+hangul: 이, Hanja: 剓, CodePoint: U+5253 | http://hanja.naver.com/hanja?q=剓&cp_code=0&sound_id=0 -> O
+hangul: 이, Hanja: 刕, CodePoint: U+5215 | http://hanja.naver.com/hanja?q=刕&cp_code=0&sound_id=0 -> O
+hangul: 이, Hanja: 隸, CodePoint: U+96B8 | http://hanja.naver.com/hanja?q=隸&cp_code=0&sound_id=0 -> O
+hangul: 이, Hanja: 隷, CodePoint: U+96B7 | http://hanja.naver.com/hanja?q=隷&cp_code=0&sound_id=0 -> O
+hangul: 이, Hanja: 禰, CodePoint: U+79B0 | http://hanja.naver.com/hanja?q=禰&cp_code=0&sound_id=0 -> O
+hangul: 익, Hanja: 匿, CodePoint: U+F9EB | http://hanja.naver.com/hanja?q=匿&cp_code=0&sound_id=0 -> O
+hangul: 익, Hanja: 溺, CodePoint: U+F9EC | http://hanja.naver.com/hanja?q=溺&cp_code=0&sound_id=0 -> O
+hangul: 익, Hanja: 益, CodePoint: U+FA17 | http://hanja.naver.com/hanja?q=益&cp_code=0&sound_id=0 -> O
+hangul: 인, Hanja: 吝, CodePoint: U+F9ED | http://hanja.naver.com/hanja?q=吝&cp_code=0&sound_id=0 -> O
+hangul: 인, Hanja: 燐, CodePoint: U+F9EE | http://hanja.naver.com/hanja?q=燐&cp_code=0&sound_id=0 -> O
+hangul: 인, Hanja: 璘, CodePoint: U+F9EF | http://hanja.naver.com/hanja?q=璘&cp_code=0&sound_id=0 -> O
+hangul: 인, Hanja: 藺, CodePoint: U+F9F0 | http://hanja.naver.com/hanja?q=藺&cp_code=0&sound_id=0 -> O
+hangul: 인, Hanja: 隣, CodePoint: U+F9F1 | http://hanja.naver.com/hanja?q=隣&cp_code=0&sound_id=0 -> O
+hangul: 인, Hanja: 鱗, CodePoint: U+F9F2 | http://hanja.naver.com/hanja?q=鱗&cp_code=0&sound_id=0 -> O
+hangul: 인, Hanja: 麟, CodePoint: U+F9F3 | http://hanja.naver.com/hanja?q=麟&cp_code=0&sound_id=0 -> O
+hangul: 일, Hanja: 逸, CodePoint: U+FA25 | http://hanja.naver.com/hanja?q=逸&cp_code=0&sound_id=0 -> O
+hangul: 일, Hanja: 益, CodePoint: U+FA17 | http://hanja.naver.com/hanja?q=益&cp_code=0&sound_id=0 -> O
+hangul: 임, Hanja: 林, CodePoint: U+F9F4 | http://hanja.naver.com/hanja?q=林&cp_code=0&sound_id=0 -> O
+hangul: 임, Hanja: 淋, CodePoint: U+F9F5 | http://hanja.naver.com/hanja?q=淋&cp_code=0&sound_id=0 -> O
+hangul: 임, Hanja: 臨, CodePoint: U+F9F6 | http://hanja.naver.com/hanja?q=臨&cp_code=0&sound_id=0 -> O
+hangul: 임, Hanja: 惏, CodePoint: U+60CF | http://hanja.naver.com/hanja?q=惏&cp_code=0&sound_id=0 -> O
+hangul: 입, Hanja: 立, CodePoint: U+F9F7 | http://hanja.naver.com/hanja?q=立&cp_code=0&sound_id=0 -> O
+hangul: 입, Hanja: 笠, CodePoint: U+F9F8 | http://hanja.naver.com/hanja?q=笠&cp_code=0&sound_id=0 -> O
+hangul: 입, Hanja: 粒, CodePoint: U+F9F9 | http://hanja.naver.com/hanja?q=粒&cp_code=0&sound_id=0 -> O
+hangul: 입, Hanja: 叺, CodePoint: U+53FA | http://hanja.naver.com/hanja?q=叺&cp_code=0&sound_id=0 -> O
+hangul: 자, Hanja: 齊, CodePoint: U+9F4A | http://hanja.naver.com/hanja?q=齊&cp_code=0&sound_id=0 -> O
+hangul: 장, Hanja: 狀, CodePoint: U+F9FA | http://hanja.naver.com/hanja?q=狀&cp_code=0&sound_id=0 -> O
+hangul: 장, Hanja: 状, CodePoint: U+72B6 | http://hanja.naver.com/hanja?q=状&cp_code=0&sound_id=0 -> O
+hangul: 재, Hanja: 齊, CodePoint: U+9F4A | http://hanja.naver.com/hanja?q=齊&cp_code=0&sound_id=0 -> O
+hangul: 저, Hanja: 猪, CodePoint: U+FA16 | http://hanja.naver.com/hanja?q=猪&cp_code=0&sound_id=0 -> O
+hangul: 저, Hanja: 諸, CodePoint: U+FA22 | http://hanja.naver.com/hanja?q=諸&cp_code=0&sound_id=0 -> O
+hangul: 적, Hanja: 炙, CodePoint: U+F9FB | http://hanja.naver.com/hanja?q=炙&cp_code=0&sound_id=0 -> O
+hangul: 전, Hanja: 専, CodePoint: U+5C02 | http://hanja.naver.com/hanja?q=専&cp_code=0&sound_id=0 -> O
+hangul: 전, Hanja: 齊, CodePoint: U+9F4A | http://hanja.naver.com/hanja?q=齊&cp_code=0&sound_id=0 -> O
+hangul: 절, Hanja: 蕞, CodePoint: U+855E | http://hanja.naver.com/hanja?q=蕞&cp_code=0&sound_id=0 -> O
+hangul: 정, Hanja: 靖, CodePoint: U+FA1C | http://hanja.naver.com/hanja?q=靖&cp_code=0&sound_id=0 -> O
+hangul: 정, Hanja: 精, CodePoint: U+FA1D | http://hanja.naver.com/hanja?q=精&cp_code=0&sound_id=0 -> O
+hangul: 제, Hanja: 諸, CodePoint: U+FA22 | http://hanja.naver.com/hanja?q=諸&cp_code=0&sound_id=0 -> O
+hangul: 제, Hanja: 蝉, CodePoint: U+8749 | http://hanja.naver.com/hanja?q=蝉&cp_code=0&sound_id=0 -> O
+hangul: 제, Hanja: 蟬, CodePoint: U+87EC | http://hanja.naver.com/hanja?q=蟬&cp_code=0&sound_id=0 -> O
+hangul: 졸, Hanja: 伜, CodePoint: U+4F1C | http://hanja.naver.com/hanja?q=伜&cp_code=0&sound_id=0 -> O
+hangul: 준, Hanja: 僎, CodePoint: U+50CE | http://hanja.naver.com/hanja?q=僎&cp_code=0&sound_id=0 -> O
+hangul: 중, Hanja: 乑, CodePoint: U+4E51 | http://hanja.naver.com/hanja?q=乑&cp_code=0&sound_id=0 -> O
+hangul: 증, Hanja: 塍, CodePoint: U+584D | http://hanja.naver.com/hanja?q=塍&cp_code=0&sound_id=0 -> O
+hangul: 지, Hanja: 識, CodePoint: U+F9FC | http://hanja.naver.com/hanja?q=識&cp_code=0&sound_id=0 -> O
+hangul: 지, Hanja: 逇, CodePoint: U+9007 | http://hanja.naver.com/hanja?q=逇&cp_code=0&sound_id=0 -> O
+hangul: 지, Hanja: 邌, CodePoint: U+908C | http://hanja.naver.com/hanja?q=邌&cp_code=0&sound_id=0 -> O
+hangul: 지, Hanja: 都, CodePoint: U+FA26 | http://hanja.naver.com/hanja?q=都&cp_code=0&sound_id=0 -> O
+hangul: 집, Hanja: 什, CodePoint: U+F9FD | http://hanja.naver.com/hanja?q=什&cp_code=0&sound_id=0 -> O
+hangul: 집, Hanja: 汁, CodePoint: U+6C41 | http://hanja.naver.com/hanja?q=汁&cp_code=0&sound_id=0 -> O
+hangul: 차, Hanja: 茶, CodePoint: U+F9FE | http://hanja.naver.com/hanja?q=茶&cp_code=0&sound_id=0 -> O
+hangul: 차, Hanja: 仛, CodePoint: U+4EDB | http://hanja.naver.com/hanja?q=仛&cp_code=0&sound_id=0 -> O
+hangul: 차, Hanja: 剳, CodePoint: U+5273 | http://hanja.naver.com/hanja?q=剳&cp_code=0&sound_id=0 -> O
+hangul: 차, Hanja: 齄, CodePoint: U+9F44 | http://hanja.naver.com/hanja?q=齄&cp_code=0&sound_id=0 -> O
+hangul: 차, Hanja: 齜, CodePoint: U+9F5C | http://hanja.naver.com/hanja?q=齜&cp_code=0&sound_id=0 -> O
+hangul: 차, Hanja: 猪, CodePoint: U+FA16 | http://hanja.naver.com/hanja?q=猪&cp_code=0&sound_id=0 -> O
+hangul: 차, Hanja: 泚, CodePoint: U+6CDA | http://hanja.naver.com/hanja?q=泚&cp_code=0&sound_id=0 -> O, 다음 사전에선 "강 이름 '자', 맑을 '체'"로 표기 http://dic.daum.net/word/view.do?wordid=hhw000005128&supid=hhu000005130
+hangul: 착, Hanja: 蔟, CodePoint: U+851F | http://hanja.naver.com/hanja?q=蔟&cp_code=0&sound_id=0 -> O
+hangul: 찬, Hanja: 戔, CodePoint: U+6214 | http://hanja.naver.com/hanja?q=戔&cp_code=0&sound_id=0 -> O
+hangul: 찬, Hanja: 譔, CodePoint: U+8B54 | http://hanja.naver.com/hanja?q=譔&cp_code=0&sound_id=0 -> O
+hangul: 찬, Hanja: 饍, CodePoint: U+994D | http://hanja.naver.com/hanja?q=饍&cp_code=0&sound_id=0 -> O
+hangul: 찬, Hanja: 串, CodePoint: U+4E32 | http://hanja.naver.com/hanja?q=串&cp_code=0&sound_id=0 -> O
+hangul: 찰, Hanja: 囋, CodePoint: U+56CB | http://hanja.naver.com/hanja?q=囋&cp_code=0&sound_id=0 -> O
+hangul: 참, Hanja: 參, CodePoint: U+F96B | http://hanja.naver.com/hanja?q=參&cp_code=0&sound_id=0 -> O
+hangul: 척, Hanja: 刺, CodePoint: U+F9FF | http://hanja.naver.com/hanja?q=刺&cp_code=0&sound_id=0 -> O
+hangul: 척, Hanja: 槭, CodePoint: U+69ED | http://hanja.naver.com/hanja?q=槭&cp_code=0&sound_id=0 -> O
+hangul: 철, Hanja: 軼, CodePoint: U+8EFC | http://hanja.naver.com/hanja?q=軼&cp_code=0&sound_id=0 -> O
+hangul: 첨, Hanja: 覘, CodePoint: U+8998 | http://hanja.naver.com/hanja?q=覘&cp_code=0&sound_id=0 -> O
+hangul: 첩, Hanja: 帕, CodePoint: U+5E15 | http://hanja.naver.com/hanja?q=帕&cp_code=0&sound_id=0 -> O
+hangul: 청, Hanja: 錆, CodePoint: U+9306 | http://hanja.naver.com/hanja?q=錆&cp_code=0&sound_id=0 -> O
+hangul: 청, Hanja: 晴, CodePoint: U+FA12 | http://hanja.naver.com/hanja?q=晴&cp_code=0&sound_id=0 -> O
+hangul: 체, Hanja: 切, CodePoint: U+FA00 | http://hanja.naver.com/hanja?q=切&cp_code=0&sound_id=0 -> O
+hangul: 초, Hanja: 嘮, CodePoint: U+562E | http://hanja.naver.com/hanja?q=嘮&cp_code=0&sound_id=0 -> O
+hangul: 촉, Hanja: 属, CodePoint: U+5C5E | http://hanja.naver.com/hanja?q=属&cp_code=0&sound_id=0 -> O
+hangul: 총, Hanja: 囱, CodePoint: U+56F1 | http://hanja.naver.com/hanja?q=囱&cp_code=0&sound_id=0 -> O
+hangul: 총, Hanja: 塚, CodePoint: U+FA10 | http://hanja.naver.com/hanja?q=塚&cp_code=0&sound_id=0 -> O
+hangul: 총, Hanja: 龍, CodePoint: U+9F8D | http://hanja.naver.com/hanja?q=龍&cp_code=0&sound_id=0 -> O
+hangul: 총, Hanja: 竜, CodePoint: U+7ADC | http://hanja.naver.com/hanja?q=竜&cp_code=0&sound_id=0 -> O
+hangul: 총, Hanja: 龒, CodePoint: U+9F92 | http://hanja.naver.com/hanja?q=龒&cp_code=0&sound_id=0 -> O
+hangul: 촬, Hanja: 蕞, CodePoint: U+855E | http://hanja.naver.com/hanja?q=蕞&cp_code=0&sound_id=0 -> O
+hangul: 최, Hanja: 洒, CodePoint: U+6D12 | http://hanja.naver.com/hanja?q=洒&cp_code=0&sound_id=0 -> O
+hangul: 추, Hanja: 揣, CodePoint: U+63E3 | http://hanja.naver.com/hanja?q=揣&cp_code=0&sound_id=0 -> O
+hangul: 축, Hanja: 嘁, CodePoint: U+5601 | http://hanja.naver.com/hanja?q=嘁&cp_code=0&sound_id=0 -> O
+hangul: 축, Hanja: 潚, CodePoint: U+6F5A | http://hanja.naver.com/hanja?q=潚&cp_code=0&sound_id=0 -> O
+hangul: 취, Hanja: 顇, CodePoint: U+9847 | http://hanja.naver.com/hanja?q=顇&cp_code=0&sound_id=0 -> O
+hangul: 치, Hanja: 偨, CodePoint: U+5068 | http://hanja.naver.com/hanja?q=偨&cp_code=0&sound_id=0 -> O
+hangul: 치, Hanja: 昃, CodePoint: U+6603 | http://hanja.naver.com/hanja?q=昃&cp_code=0&sound_id=0 -> X,"기을 '측'" 
+hangul: 타, Hanja: 仛, CodePoint: U+4EDB | http://hanja.naver.com/hanja?q=仛&cp_code=0&sound_id=0 -> O
+hangul: 탁, Hanja: 度, CodePoint: U+FA01 | http://hanja.naver.com/hanja?q=度&cp_code=0&sound_id=0 -> O
+hangul: 탁, Hanja: 拓, CodePoint: U+FA02 | http://hanja.naver.com/hanja?q=拓&cp_code=0&sound_id=0 -> O
+hangul: 탕, Hanja: 糖, CodePoint: U+FA03 | http://hanja.naver.com/hanja?q=糖&cp_code=0&sound_id=0 -> O
+hangul: 태, Hanja: 態, CodePoint: U+614B | http://hanja.naver.com/hanja?q=態&cp_code=0&sound_id=0 -> O
+hangul: 택, Hanja: 宅, CodePoint: U+FA04 | http://hanja.naver.com/hanja?q=宅&cp_code=0&sound_id=0 -> O
+hangul: 통, Hanja: 洞, CodePoint: U+FA05 | http://hanja.naver.com/hanja?q=洞&cp_code=0&sound_id=0 -> O
+hangul: 패, Hanja: 壩, CodePoint: U+58E9 | http://hanja.naver.com/hanja?q=壩&cp_code=0&sound_id=0 -> O
+hangul: 패, Hanja: 芾, CodePoint: U+82BE | http://hanja.naver.com/hanja?q=芾&cp_code=0&sound_id=0 -> O
+hangul: 포, Hanja: 暴, CodePoint: U+FA06 | http://hanja.naver.com/hanja?q=暴&cp_code=0&sound_id=0 -> O
+hangul: 폭, Hanja: 輻, CodePoint: U+FA07 | http://hanja.naver.com/hanja?q=輻&cp_code=0&sound_id=0 -> O
+hangul: 필, Hanja: 芾, CodePoint: U+82BE | http://hanja.naver.com/hanja?q=芾&cp_code=0&sound_id=0 -> O
+hangul: 학, Hanja: 鶴, CodePoint: U+FA2D | http://hanja.naver.com/hanja?q=鶴&cp_code=0&sound_id=0 -> O
+hangul: 함, Hanja: 酣, CodePoint: U+9163 | http://hanja.naver.com/hanja?q=酣&cp_code=0&sound_id=0 -> O
+hangul: 함, Hanja: 澉, CodePoint: U+6F89 | http://hanja.naver.com/hanja?q=澉&cp_code=0&sound_id=0 -> O
+hangul: 함, Hanja: 淦, CodePoint: U+6DE6 | http://hanja.naver.com/hanja?q=淦&cp_code=0&sound_id=0 -> O
+hangul: 함, Hanja: 泔, CodePoint: U+6CD4 | http://hanja.naver.com/hanja?q=泔&cp_code=0&sound_id=0 -> O
+hangul: 함, Hanja: 歛, CodePoint: U+6B5B | http://hanja.naver.com/hanja?q=歛&cp_code=0&sound_id=0 -> O
+hangul: 항, Hanja: 行, CodePoint: U+FA08 | http://hanja.naver.com/hanja?q=行&cp_code=0&sound_id=0 -> O
+hangul: 항, Hanja: 降, CodePoint: U+FA09 | http://hanja.naver.com/hanja?q=降&cp_code=0&sound_id=0 -> O
+hangul: 현, Hanja: 見, CodePoint: U+FA0A | http://hanja.naver.com/hanja?q=見&cp_code=0&sound_id=0 -> O
+hangul: 협, Hanja: 汁, CodePoint: U+6C41 | http://hanja.naver.com/hanja?q=汁&cp_code=0&sound_id=0 -> O
+hangul: 혜, Hanja: 儶, CodePoint: U+5136 | http://hanja.naver.com/hanja?q=儶&cp_code=0&sound_id=0 -> O
+hangul: 호, Hanja: 羽, CodePoint: U+FA1E | http://hanja.naver.com/hanja?q=羽&cp_code=0&sound_id=0 -> O
+hangul: 혼, Hanja: 鯇, CodePoint: U+9BC7 | http://hanja.naver.com/hanja?q=鯇&cp_code=0&sound_id=0 -> O
+hangul: 화, Hanja: 哇, CodePoint: U+54C7 | http://hanja.naver.com/hanja?q=哇&cp_code=0&sound_id=0 -> O
+hangul: 확, Hanja: 廓, CodePoint: U+FA0B | http://hanja.naver.com/hanja?q=廓&cp_code=0&sound_id=0 -> O
+hangul: 확, Hanja: 塙, CodePoint: U+5859 | http://hanja.naver.com/hanja?q=塙&cp_code=0&sound_id=0 -> O
+hangul: 환, Hanja: 嚾, CodePoint: U+56BE | http://hanja.naver.com/hanja?q=嚾&cp_code=0&sound_id=0 -> O
+hangul: 환, Hanja: 圂, CodePoint: U+5702 | http://hanja.naver.com/hanja?q=圂&cp_code=0&sound_id=0 -> O
+hangul: 환, Hanja: 莞, CodePoint: U+839E | http://hanja.naver.com/hanja?q=莞&cp_code=0&sound_id=0 -> O
+hangul: 효, Hanja: 嗃, CodePoint: U+55C3 | http://hanja.naver.com/hanja?q=嗃&cp_code=0&sound_id=0 -> O
+hangul: 흔, Hanja: 佷, CodePoint: U+4F77 | http://hanja.naver.com/hanja?q=佷&cp_code=0&sound_id=0 -> O
+hangul: 흠, Hanja: 吽, CodePoint: U+543D | http://hanja.naver.com/hanja?q=吽&cp_code=0&sound_id=0 -> O
+hangul: 희, Hanja: 凞, CodePoint: U+FA15 | http://hanja.naver.com/hanja?q=凞&cp_code=0&sound_id=0 -> O
