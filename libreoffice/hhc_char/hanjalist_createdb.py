@@ -119,6 +119,18 @@ if __name__ == '__main__':
     cur.execute('''INSERT OR IGNORE INTO HANJA_CHAR (hangul, hanja, note, flag, date)
                                                 VALUES ( ?, ?, ?, ?, ? )''',
                 ('팡', '乓', '', FLAG_LIBREOFFICEHANJA, '2018-05-16',))
+    cur.execute('''INSERT OR IGNORE INTO HANJA_CHAR (hangul, hanja, note, flag, date)
+                                                    VALUES ( ?, ?, ?, ?, ? )''',
+                ('교', '覺', '깰 교', FLAG_LIBREOFFICEHANJA, '2018-05-17',))
+    cur.execute('''INSERT OR IGNORE INTO HANJA_CHAR (hangul, hanja, note, flag, date)
+                                                        VALUES ( ?, ?, ?, ?, ? )''',
+                ('록', '角', '사람 이름 록', FLAG_LIBREOFFICEHANJA, '2018-05-17',))
+    cur.execute('''INSERT OR IGNORE INTO HANJA_CHAR (hangul, hanja, note, flag, date)
+                                                        VALUES ( ?, ?, ?, ?, ? )''',
+                ('녹', '角', '사람 이름 녹', FLAG_LIBREOFFICEHANJA, '2018-05-17',))
+    cur.execute('''INSERT OR IGNORE INTO HANJA_CHAR (hangul, hanja, note, flag, date)
+                                                        VALUES ( ?, ?, ?, ?, ? )''',
+                ('곡', '角', '꿩 우는 소리 곡', FLAG_LIBREOFFICEHANJA, '2018-05-17',))
     conn.commit()
     f.close()
     conn.close()
