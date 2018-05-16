@@ -104,10 +104,21 @@ if __name__ == '__main__':
                     # not found, then insert  hanja data
                     print("hangul: %s, Hanja: %s, CodePoint: U+%04X | http://hanja.naver.com/hanja?q=%s&cp_code=0&sound_id=0" %
                           (hanja_sound, hanja_element, ord(hanja_element), hanja_element))
-                    cur.execute(
-                        "insert into HANJA_CHAR(hangul, hanja, note, flag)  "
-                        "VALUES "
-                        "(:hangul, :hanja, :note, :flag )",
-                        {"hangul": hanja_sound, "hanja": hanja_element, "note": "", "flag": FLAG_LIBREOFFICEHANJA})
+                    cur.execute('''INSERT OR IGNORE INTO HANJA_CHAR (hangul, hanja, note, flag, date)
+                                        VALUES ( ?, ?, ?, ?, ? )''',
+                                (hanja_sound, hanja_element, "", FLAG_LIBREOFFICEHANJA, "2018-05-16",))
+                    conn.commit()
+    # 乒 - 물건 부딪치는 소리 '병', 물건 부딪치는 소리 '핑'
+    # 乓 - 물건을 부딪치는 소리 '병', 물건을 부딪치는 소리 '팡'
+    cur.execute('''INSERT OR IGNORE INTO HANJA_CHAR (hangul, hanja, note, flag, date)
+                                            VALUES ( ?, ?, ?, ?, ? )''',
+                ('핑', '乒', '', FLAG_LIBREOFFICEHANJA, '2018-05-16',))
+    cur.execute('''INSERT OR IGNORE INTO HANJA_CHAR (hangul, hanja, note, flag, date)
+                                                VALUES ( ?, ?, ?, ?, ? )''',
+                ('병', '乓', '', FLAG_LIBREOFFICEHANJA, '2018-05-16',))
+    cur.execute('''INSERT OR IGNORE INTO HANJA_CHAR (hangul, hanja, note, flag, date)
+                                                VALUES ( ?, ?, ?, ?, ? )''',
+                ('팡', '乓', '', FLAG_LIBREOFFICEHANJA, '2018-05-16',))
+    conn.commit()
     f.close()
     conn.close()
